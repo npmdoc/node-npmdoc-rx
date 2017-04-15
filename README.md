@@ -1,11 +1,13 @@
 # api documentation for  [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS)  [![npm package](https://img.shields.io/npm/v/npmdoc-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rx)
 #### Library for composing asynchronous and event-based operations in JavaScript
 
-[![NPM](https://nodei.co/npm/rx.png?downloads=true)](https://www.npmjs.com/package/rx)
+[![NPM](https://nodei.co/npm/rx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rx)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rx/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-rx_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rx/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rx/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rx/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-rx/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-rx/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-rx/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
@@ -63,17 +65,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "vvilhonen",
-            "email": "vesa@vilhonen.com"
+            "name": "vvilhonen"
         },
         {
-            "name": "mattpodwysocki",
-            "email": "matthew.podwysocki@gmail.com"
+            "name": "mattpodwysocki"
         }
     ],
     "name": "rx",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Reactive-Extensions/RxJS.git"
@@ -596,6 +595,49 @@
 1.  [function <span class="apidocSignatureSpan">rx.ReplaySubject.prototype.</span>onError (error)](#apidoc.element.rx.ReplaySubject.prototype.onError)
 1.  [function <span class="apidocSignatureSpan">rx.ReplaySubject.prototype.</span>onNext (value)](#apidoc.element.rx.ReplaySubject.prototype.onNext)
 1.  [function <span class="apidocSignatureSpan">rx.ReplaySubject.prototype.</span>toNotifier ()](#apidoc.element.rx.ReplaySubject.prototype.toNotifier)
+
+#### [module rx.Rx](#apidoc.module.rx.Rx)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>AnonymousObservable (subscribe, parent)](#apidoc.element.rx.Rx.AnonymousObservable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>AnonymousObserver (onNext, onError, onCompleted)](#apidoc.element.rx.Rx.AnonymousObserver)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>AnonymousSubject (observer, observable)](#apidoc.element.rx.Rx.AnonymousSubject)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>ArgumentOutOfRangeError ()](#apidoc.element.rx.Rx.ArgumentOutOfRangeError)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>AsyncSubject ()](#apidoc.element.rx.Rx.AsyncSubject)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>BehaviorSubject (value)](#apidoc.element.rx.Rx.BehaviorSubject)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>BinaryDisposable (first, second)](#apidoc.element.rx.Rx.BinaryDisposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>CompositeDisposable ()](#apidoc.element.rx.Rx.CompositeDisposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>CompositeError (errors)](#apidoc.element.rx.Rx.CompositeError)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>ConnectableObservable (source, subject)](#apidoc.element.rx.Rx.ConnectableObservable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Disposable (action)](#apidoc.element.rx.Rx.Disposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>EmptyError ()](#apidoc.element.rx.Rx.EmptyError)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>FlatMapObservable (source, selector, resultSelector, thisArg)](#apidoc.element.rx.Rx.FlatMapObservable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>HistoricalScheduler (initialClock, comparer)](#apidoc.element.rx.Rx.HistoricalScheduler)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>MockDisposable (scheduler)](#apidoc.element.rx.Rx.MockDisposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>NAryDisposable (disposables)](#apidoc.element.rx.Rx.NAryDisposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>NotImplementedError (message)](#apidoc.element.rx.Rx.NotImplementedError)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>NotSupportedError (message)](#apidoc.element.rx.Rx.NotSupportedError)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Notification ()](#apidoc.element.rx.Rx.Notification)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>ObjectDisposedError ()](#apidoc.element.rx.Rx.ObjectDisposedError)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Observable ()](#apidoc.element.rx.Rx.Observable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>ObservableBase ()](#apidoc.element.rx.Rx.ObservableBase)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Observer ()](#apidoc.element.rx.Rx.Observer)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Pauser ()](#apidoc.element.rx.Rx.Pauser)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Recorded (time, value, comparer)](#apidoc.element.rx.Rx.Recorded)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>RefCountDisposable (disposable)](#apidoc.element.rx.Rx.RefCountDisposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>ReplaySubject (bufferSize, windowSize, scheduler)](#apidoc.element.rx.Rx.ReplaySubject)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Scheduler ()](#apidoc.element.rx.Rx.Scheduler)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>SerialDisposable ()](#apidoc.element.rx.Rx.SerialDisposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>SingleAssignmentDisposable ()](#apidoc.element.rx.Rx.SingleAssignmentDisposable)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Subject ()](#apidoc.element.rx.Rx.Subject)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>Subscription (start, end)](#apidoc.element.rx.Rx.Subscription)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>TestScheduler ()](#apidoc.element.rx.Rx.TestScheduler)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>TimeoutError (message)](#apidoc.element.rx.Rx.TimeoutError)
+1.  [function <span class="apidocSignatureSpan">rx.Rx.</span>VirtualTimeScheduler (initialClock, comparer)](#apidoc.element.rx.Rx.VirtualTimeScheduler)
+1.  object <span class="apidocSignatureSpan">rx.</span>Rx
+1.  object <span class="apidocSignatureSpan">rx.Rx.</span>ReactiveTest
+1.  object <span class="apidocSignatureSpan">rx.Rx.</span>config
+1.  object <span class="apidocSignatureSpan">rx.Rx.</span>doneEnumerator
+1.  object <span class="apidocSignatureSpan">rx.Rx.</span>helpers
+1.  object <span class="apidocSignatureSpan">rx.Rx.</span>internals
 
 #### [module rx.Scheduler](#apidoc.module.rx.Scheduler)
 1.  [function <span class="apidocSignatureSpan">rx.</span>Scheduler ()](#apidoc.element.rx.Scheduler.Scheduler)
@@ -7737,6 +7779,507 @@ n/a
 toNotifier = function () {
   var observer = this;
   return function (n) { return n.accept(observer); };
+}
+```
+- example usage
+```shell
+n/a
+```
+
+
+
+# <a name="apidoc.module.rx.Rx"></a>[module rx.Rx](#apidoc.module.rx.Rx)
+
+#### <a name="apidoc.element.rx.Rx.AnonymousObservable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>AnonymousObservable (subscribe, parent)](#apidoc.element.rx.Rx.AnonymousObservable)
+- description and source-code
+```javascript
+function AnonymousObservable(subscribe, parent) {
+  this.source = parent;
+  this.__subscribe = subscribe;
+  __super__.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.AnonymousObserver"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>AnonymousObserver (onNext, onError, onCompleted)](#apidoc.element.rx.Rx.AnonymousObserver)
+- description and source-code
+```javascript
+function AnonymousObserver(onNext, onError, onCompleted) {
+  __super__.call(this);
+  this._onNext = onNext;
+  this._onError = onError;
+  this._onCompleted = onCompleted;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.AnonymousSubject"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>AnonymousSubject (observer, observable)](#apidoc.element.rx.Rx.AnonymousSubject)
+- description and source-code
+```javascript
+function AnonymousSubject(observer, observable) {
+  this.observer = observer;
+  this.observable = observable;
+  __super__.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.ArgumentOutOfRangeError"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>ArgumentOutOfRangeError ()](#apidoc.element.rx.Rx.ArgumentOutOfRangeError)
+- description and source-code
+```javascript
+ArgumentOutOfRangeError = function () {
+  this.message = 'Argument out of range';
+  Error.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.AsyncSubject"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>AsyncSubject ()](#apidoc.element.rx.Rx.AsyncSubject)
+- description and source-code
+```javascript
+function AsyncSubject() {
+  __super__.call(this);
+  this.isDisposed = false;
+  this.isStopped = false;
+  this.hasValue = false;
+  this.observers = [];
+  this.hasError = false;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.BehaviorSubject"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>BehaviorSubject (value)](#apidoc.element.rx.Rx.BehaviorSubject)
+- description and source-code
+```javascript
+function BehaviorSubject(value) {
+  __super__.call(this);
+  this.value = value;
+  this.observers = [];
+  this.isDisposed = false;
+  this.isStopped = false;
+  this.hasError = false;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.BinaryDisposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>BinaryDisposable (first, second)](#apidoc.element.rx.Rx.BinaryDisposable)
+- description and source-code
+```javascript
+BinaryDisposable = function (first, second) {
+  this._first = first;
+  this._second = second;
+  this.isDisposed = false;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.CompositeDisposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>CompositeDisposable ()](#apidoc.element.rx.Rx.CompositeDisposable)
+- description and source-code
+```javascript
+CompositeDisposable = function () {
+  var args = [], i, len;
+  if (Array.isArray(arguments[0])) {
+    args = arguments[0];
+  } else {
+    len = arguments.length;
+    args = new Array(len);
+    for(i = 0; i < len; i++) { args[i] = arguments[i]; }
+  }
+  this.disposables = args;
+  this.isDisposed = false;
+  this.length = args.length;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.CompositeError"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>CompositeError (errors)](#apidoc.element.rx.Rx.CompositeError)
+- description and source-code
+```javascript
+CompositeError = function (errors) {
+  this.innerErrors = errors;
+  this.message = 'This contains multiple errors. Check the innerErrors';
+  Error.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.ConnectableObservable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>ConnectableObservable (source, subject)](#apidoc.element.rx.Rx.ConnectableObservable)
+- description and source-code
+```javascript
+function ConnectableObservable(source, subject) {
+  this.source = source;
+  this._connection = null;
+  this._source = source.asObservable();
+  this._subject = subject;
+  __super__.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Disposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Disposable (action)](#apidoc.element.rx.Rx.Disposable)
+- description and source-code
+```javascript
+Disposable = function (action) {
+  this.isDisposed = false;
+  this.action = action || noop;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.EmptyError"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>EmptyError ()](#apidoc.element.rx.Rx.EmptyError)
+- description and source-code
+```javascript
+EmptyError = function () {
+  this.message = 'Sequence contains no elements.';
+  Error.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.FlatMapObservable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>FlatMapObservable (source, selector, resultSelector, thisArg)](#apidoc.element.rx.Rx.FlatMapObservable)
+- description and source-code
+```javascript
+function FlatMapObservable(source, selector, resultSelector, thisArg) {
+  this.resultSelector = isFunction(resultSelector) ? resultSelector : null;
+  this.selector = bindCallback(isFunction(selector) ? selector : function() { return selector; }, thisArg, 3);
+  this.source = source;
+  __super__.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.HistoricalScheduler"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>HistoricalScheduler (initialClock, comparer)](#apidoc.element.rx.Rx.HistoricalScheduler)
+- description and source-code
+```javascript
+function HistoricalScheduler(initialClock, comparer) {
+  var clock = initialClock == null ? 0 : initialClock;
+  var cmp = comparer || defaultSubComparer;
+  __super__.call(this, clock, cmp);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.MockDisposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>MockDisposable (scheduler)](#apidoc.element.rx.Rx.MockDisposable)
+- description and source-code
+```javascript
+MockDisposable = function (scheduler) {
+  this.scheduler = scheduler;
+  this.disposes = [];
+  this.disposes.push(this.scheduler.clock);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.NAryDisposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>NAryDisposable (disposables)](#apidoc.element.rx.Rx.NAryDisposable)
+- description and source-code
+```javascript
+NAryDisposable = function (disposables) {
+  this._disposables = disposables;
+  this.isDisposed = false;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.NotImplementedError"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>NotImplementedError (message)](#apidoc.element.rx.Rx.NotImplementedError)
+- description and source-code
+```javascript
+NotImplementedError = function (message) {
+  this.message = message || 'This operation is not implemented';
+  Error.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.NotSupportedError"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>NotSupportedError (message)](#apidoc.element.rx.Rx.NotSupportedError)
+- description and source-code
+```javascript
+NotSupportedError = function (message) {
+  this.message = message || 'This operation is not supported';
+  Error.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Notification"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Notification ()](#apidoc.element.rx.Rx.Notification)
+- description and source-code
+```javascript
+function Notification() {
+
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.ObjectDisposedError"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>ObjectDisposedError ()](#apidoc.element.rx.Rx.ObjectDisposedError)
+- description and source-code
+```javascript
+ObjectDisposedError = function () {
+  this.message = 'Object has been disposed';
+  Error.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Observable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Observable ()](#apidoc.element.rx.Rx.Observable)
+- description and source-code
+```javascript
+function Observable() {
+  if (Rx.config.longStackSupport && hasStacks) {
+    var oldSubscribe = this._subscribe;
+    var e = tryCatch(thrower)(new Error()).e;
+    this.stack = e.stack.substring(e.stack.indexOf('\n') + 1);
+    this._subscribe = makeSubscribe(this, oldSubscribe);
+  }
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.ObservableBase"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>ObservableBase ()](#apidoc.element.rx.Rx.ObservableBase)
+- description and source-code
+```javascript
+function ObservableBase() {
+  __super__.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Observer"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Observer ()](#apidoc.element.rx.Rx.Observer)
+- description and source-code
+```javascript
+Observer = function () { }
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Pauser"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Pauser ()](#apidoc.element.rx.Rx.Pauser)
+- description and source-code
+```javascript
+function Pauser() {
+  __super__.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Recorded"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Recorded (time, value, comparer)](#apidoc.element.rx.Rx.Recorded)
+- description and source-code
+```javascript
+Recorded = function (time, value, comparer) {
+  this.time = time;
+  this.value = value;
+  this.comparer = comparer || defaultComparer;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.RefCountDisposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>RefCountDisposable (disposable)](#apidoc.element.rx.Rx.RefCountDisposable)
+- description and source-code
+```javascript
+function RefCountDisposable(disposable) {
+  this.underlyingDisposable = disposable;
+  this.isDisposed = false;
+  this.isPrimaryDisposed = false;
+  this.count = 0;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.ReplaySubject"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>ReplaySubject (bufferSize, windowSize, scheduler)](#apidoc.element.rx.Rx.ReplaySubject)
+- description and source-code
+```javascript
+function ReplaySubject(bufferSize, windowSize, scheduler) {
+  this.bufferSize = bufferSize == null ? maxSafeInteger : bufferSize;
+  this.windowSize = windowSize == null ? maxSafeInteger : windowSize;
+  this.scheduler = scheduler || currentThreadScheduler;
+  this.q = [];
+  this.observers = [];
+  this.isStopped = false;
+  this.isDisposed = false;
+  this.hasError = false;
+  this.error = null;
+  __super__.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Scheduler"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Scheduler ()](#apidoc.element.rx.Rx.Scheduler)
+- description and source-code
+```javascript
+function Scheduler() { }
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.SerialDisposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>SerialDisposable ()](#apidoc.element.rx.Rx.SerialDisposable)
+- description and source-code
+```javascript
+SerialDisposable = function () {
+  this.isDisposed = false;
+  this.current = null;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.SingleAssignmentDisposable"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>SingleAssignmentDisposable ()](#apidoc.element.rx.Rx.SingleAssignmentDisposable)
+- description and source-code
+```javascript
+SingleAssignmentDisposable = function () {
+  this.isDisposed = false;
+  this.current = null;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Subject"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Subject ()](#apidoc.element.rx.Rx.Subject)
+- description and source-code
+```javascript
+function Subject() {
+  __super__.call(this);
+  this.isDisposed = false;
+  this.isStopped = false;
+  this.observers = [];
+  this.hasError = false;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.Subscription"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>Subscription (start, end)](#apidoc.element.rx.Rx.Subscription)
+- description and source-code
+```javascript
+Subscription = function (start, end) {
+  this.subscribe = start;
+  this.unsubscribe = end || Number.MAX_VALUE;
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.TestScheduler"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>TestScheduler ()](#apidoc.element.rx.Rx.TestScheduler)
+- description and source-code
+```javascript
+function TestScheduler() {
+  __super__.call(this, 0, baseComparer);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.TimeoutError"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>TimeoutError (message)](#apidoc.element.rx.Rx.TimeoutError)
+- description and source-code
+```javascript
+TimeoutError = function (message) {
+  this.message = message || 'Timeout has occurred';
+  this.name = 'TimeoutError';
+  Error.call(this);
+}
+```
+- example usage
+```shell
+n/a
+```
+
+#### <a name="apidoc.element.rx.Rx.VirtualTimeScheduler"></a>[function <span class="apidocSignatureSpan">rx.Rx.</span>VirtualTimeScheduler (initialClock, comparer)](#apidoc.element.rx.Rx.VirtualTimeScheduler)
+- description and source-code
+```javascript
+function VirtualTimeScheduler(initialClock, comparer) {
+  this.clock = initialClock;
+  this.comparer = comparer;
+  this.isEnabled = false;
+  this.queue = new PriorityQueue(1024);
+  __super__.call(this);
 }
 ```
 - example usage
