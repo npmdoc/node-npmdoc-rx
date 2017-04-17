@@ -1,346 +1,346 @@
 <svg height="5486" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5486" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 15:26:25 +0000  6597715 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 15:26:25 +0000      116 bytes  authors.txt</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 15:26:25 +0000      360 bytes  bower.json</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 15:26:25 +0000     1761 bytes  code-of-conduct.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 15:26:25 +0000     1693 bytes  component.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 15:26:25 +0000    11038 bytes  contributing.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 15:26:25 +0000    46012 bytes  dist/rx.aggregates.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 15:26:25 +0000    24876 bytes  dist/rx.aggregates.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 15:26:25 +0000    16331 bytes  dist/rx.aggregates.min.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 15:26:25 +0000   443707 bytes  dist/rx.all.compat.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 15:26:25 +0000   222902 bytes  dist/rx.all.compat.map</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 15:26:25 +0000   147829 bytes  dist/rx.all.compat.min.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 15:26:25 +0000   437807 bytes  dist/rx.all.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 15:26:25 +0000   216653 bytes  dist/rx.all.map</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 15:26:25 +0000   144045 bytes  dist/rx.all.min.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 15:26:25 +0000    18446 bytes  dist/rx.async.compat.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 15:26:25 +0000    10524 bytes  dist/rx.async.compat.map</tspan>
-<tspan x="10" y="298"> 17.  2017-04-17 15:26:25 +0000     6383 bytes  dist/rx.async.compat.min.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-17 15:26:25 +0000    18446 bytes  dist/rx.async.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-17 15:26:25 +0000    10510 bytes  dist/rx.async.map</tspan>
-<tspan x="10" y="346"> 20.  2017-04-17 15:26:25 +0000     6376 bytes  dist/rx.async.min.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-17 15:26:25 +0000    19208 bytes  dist/rx.backpressure.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-17 15:26:25 +0000    10877 bytes  dist/rx.backpressure.map</tspan>
-<tspan x="10" y="394"> 23.  2017-04-17 15:26:25 +0000     7872 bytes  dist/rx.backpressure.min.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-17 15:26:25 +0000    23661 bytes  dist/rx.binding.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-17 15:26:25 +0000     9483 bytes  dist/rx.binding.map</tspan>
-<tspan x="10" y="442"> 26.  2017-04-17 15:26:25 +0000     6476 bytes  dist/rx.binding.min.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-17 15:26:25 +0000    24073 bytes  dist/rx.coincidence.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-17 15:26:25 +0000    11413 bytes  dist/rx.coincidence.map</tspan>
-<tspan x="10" y="490"> 29.  2017-04-17 15:26:25 +0000     6986 bytes  dist/rx.coincidence.min.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-17 15:26:25 +0000   221818 bytes  dist/rx.compat.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-17 15:26:25 +0000   117756 bytes  dist/rx.compat.map</tspan>
-<tspan x="10" y="538"> 32.  2017-04-17 15:26:25 +0000    78904 bytes  dist/rx.compat.min.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-17 15:26:25 +0000    32702 bytes  dist/rx.core.binding.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-17 15:26:25 +0000    13909 bytes  dist/rx.core.binding.map</tspan>
-<tspan x="10" y="586"> 35.  2017-04-17 15:26:25 +0000     9918 bytes  dist/rx.core.binding.min.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-17 15:26:25 +0000    44052 bytes  dist/rx.core.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-17 15:26:25 +0000    23213 bytes  dist/rx.core.map</tspan>
-<tspan x="10" y="634"> 38.  2017-04-17 15:26:25 +0000    15455 bytes  dist/rx.core.min.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-17 15:26:25 +0000    41039 bytes  dist/rx.core.testing.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-17 15:26:25 +0000    20133 bytes  dist/rx.core.testing.map</tspan>
-<tspan x="10" y="682"> 41.  2017-04-17 15:26:25 +0000    13888 bytes  dist/rx.core.testing.min.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-17 15:26:25 +0000    21284 bytes  dist/rx.experimental.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-17 15:26:25 +0000    11727 bytes  dist/rx.experimental.map</tspan>
-<tspan x="10" y="730"> 44.  2017-04-17 15:26:25 +0000     7189 bytes  dist/rx.experimental.min.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-17 15:26:25 +0000    11553 bytes  dist/rx.joinpatterns.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-17 15:26:25 +0000     7430 bytes  dist/rx.joinpatterns.map</tspan>
-<tspan x="10" y="778"> 47.  2017-04-17 15:26:25 +0000     4814 bytes  dist/rx.joinpatterns.min.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-17 15:26:25 +0000   211609 bytes  dist/rx.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-17 15:26:25 +0000   252906 bytes  dist/rx.lite.compat.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-17 15:26:25 +0000   131274 bytes  dist/rx.lite.compat.map</tspan>
-<tspan x="10" y="842"> 51.  2017-04-17 15:26:25 +0000    88570 bytes  dist/rx.lite.compat.min.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-17 15:26:25 +0000    29644 bytes  dist/rx.lite.extras.compat.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-17 15:26:25 +0000    15557 bytes  dist/rx.lite.extras.compat.map</tspan>
-<tspan x="10" y="890"> 54.  2017-04-17 15:26:25 +0000     9607 bytes  dist/rx.lite.extras.compat.min.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-17 15:26:25 +0000    29630 bytes  dist/rx.lite.extras.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-17 15:26:25 +0000    15540 bytes  dist/rx.lite.extras.map</tspan>
-<tspan x="10" y="938"> 57.  2017-04-17 15:26:25 +0000     9586 bytes  dist/rx.lite.extras.min.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-17 15:26:25 +0000   242735 bytes  dist/rx.lite.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-17 15:26:25 +0000   124094 bytes  dist/rx.lite.map</tspan>
-<tspan x="10" y="986"> 60.  2017-04-17 15:26:25 +0000    83684 bytes  dist/rx.lite.min.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-17 15:26:25 +0000   110315 bytes  dist/rx.map</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-17 15:26:25 +0000    74012 bytes  dist/rx.min.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-17 15:26:25 +0000     2844 bytes  dist/rx.sorting.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-17 15:26:25 +0000     1839 bytes  dist/rx.sorting.map</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-17 15:26:25 +0000     1229 bytes  dist/rx.sorting.min.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-17 15:26:25 +0000    19128 bytes  dist/rx.testing.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-17 15:26:25 +0000     9201 bytes  dist/rx.testing.map</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-17 15:26:25 +0000     6535 bytes  dist/rx.testing.min.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-17 15:26:25 +0000    55903 bytes  dist/rx.time.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-17 15:26:25 +0000    26833 bytes  dist/rx.time.map</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-17 15:26:25 +0000    16704 bytes  dist/rx.time.min.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-17 15:26:25 +0000    10677 bytes  dist/rx.virtualtime.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-17 15:26:25 +0000     4683 bytes  dist/rx.virtualtime.map</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-17 15:26:25 +0000     3191 bytes  dist/rx.virtualtime.min.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-17 15:26:25 +0000      404 bytes  index.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-17 15:26:25 +0000      708 bytes  license.txt</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-17 15:26:25 +0000     2860 bytes  package.json</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-17 15:26:25 +0000    18726 bytes  readme.md</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-17 15:26:25 +0000     1675 bytes  ts/core/abstractobserver.ts</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-17 15:26:25 +0000      287 bytes  ts/core/anonymousobservable.ts</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-17 15:26:25 +0000     1456 bytes  ts/core/anonymousobserver.ts</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-17 15:26:25 +0000     1088 bytes  ts/core/backpressure/controlled.ts</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-17 15:26:25 +0000      940 bytes  ts/core/backpressure/pausable.ts</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-17 15:26:25 +0000      871 bytes  ts/core/backpressure/pausablebuffered.ts</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-17 15:26:25 +0000      354 bytes  ts/core/backpressure/pauser.ts</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-17 15:26:25 +0000      473 bytes  ts/core/backpressure/stopandwait.ts</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-17 15:26:25 +0000      583 bytes  ts/core/backpressure/windowed.ts</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-17 15:26:25 +0000      338 bytes  ts/core/checkedobserver.ts</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-17 15:26:25 +0000      377 bytes  ts/core/concurrency/currentthreadscheduler.ts</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-17 15:26:25 +0000      258 bytes  ts/core/concurrency/defaultscheduler.ts</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-17 15:26:25 +0000      704 bytes  ts/core/concurrency/historicalscheduler.ts</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-17 15:26:25 +0000      207 bytes  ts/core/concurrency/immediatescheduler.ts</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-17 15:26:25 +0000     1476 bytes  ts/core/concurrency/scheduleditem.ts</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-17 15:26:25 +0000      595 bytes  ts/core/concurrency/scheduleperiodicrecursive.ts</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-17 15:26:25 +0000      933 bytes  ts/core/concurrency/scheduler.periodic.ts</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-17 15:26:25 +0000     1753 bytes  ts/core/concurrency/scheduler.recursive.ts</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-17 15:26:25 +0000     2201 bytes  ts/core/concurrency/scheduler.ts</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-17 15:26:25 +0000      622 bytes  ts/core/concurrency/scheduler.wrappers.ts</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-17 15:26:25 +0000     2748 bytes  ts/core/concurrency/virtualtimescheduler.ts</tspan>
-<tspan x="10" y="1626">100.  2017-04-17 15:26:25 +0000     1324 bytes  ts/core/disposables/booleandisposable.ts</tspan>
-<tspan x="10" y="1642">101.  2017-04-17 15:26:25 +0000     1602 bytes  ts/core/disposables/compositedisposable.ts</tspan>
-<tspan x="10" y="1658">102.  2017-04-17 15:26:25 +0000     1785 bytes  ts/core/disposables/disposable.ts</tspan>
-<tspan x="10" y="1674">103.  2017-04-17 15:26:25 +0000     1315 bytes  ts/core/disposables/refcountdisposable.ts</tspan>
-<tspan x="10" y="1690">104.  2017-04-17 15:26:25 +0000      930 bytes  ts/core/es5.ts</tspan>
-<tspan x="10" y="1706">105.  2017-04-17 15:26:25 +0000     5351 bytes  ts/core/es6-iterable.d.ts</tspan>
-<tspan x="10" y="1722">106.  2017-04-17 15:26:25 +0000     3813 bytes  ts/core/es6-promise.d.ts</tspan>
-<tspan x="10" y="1738">107.  2017-04-17 15:26:25 +0000      844 bytes  ts/core/es6.ts</tspan>
-<tspan x="10" y="1754">108.  2017-04-17 15:26:25 +0000      216 bytes  ts/core/internal/bindcallback.ts</tspan>
-<tspan x="10" y="1770">109.  2017-04-17 15:26:25 +0000     1028 bytes  ts/core/internal/errors.ts</tspan>
-<tspan x="10" y="1786">110.  2017-04-17 15:26:25 +0000      184 bytes  ts/core/internal/isequal.ts</tspan>
-<tspan x="10" y="1802">111.  2017-04-17 15:26:25 +0000     1304 bytes  ts/core/internal/priorityqueue.ts</tspan>
-<tspan x="10" y="1818">112.  2017-04-17 15:26:25 +0000      612 bytes  ts/core/internal/util.ts</tspan>
-<tspan x="10" y="1834">113.  2017-04-17 15:26:25 +0000     8246 bytes  ts/core/joins/pattern.ts</tspan>
-<tspan x="10" y="1850">114.  2017-04-17 15:26:25 +0000       43 bytes  ts/core/joins/plan.ts</tspan>
-<tspan x="10" y="1866">115.  2017-04-17 15:26:25 +0000      365 bytes  ts/core/linq/connectableobservable.ts</tspan>
-<tspan x="10" y="1882">116.  2017-04-17 15:26:25 +0000      380 bytes  ts/core/linq/groupedobservable.ts</tspan>
-<tspan x="10" y="1898">117.  2017-04-17 15:26:25 +0000     1083 bytes  ts/core/linq/observable/amb.ts</tspan>
-<tspan x="10" y="1914">118.  2017-04-17 15:26:25 +0000      697 bytes  ts/core/linq/observable/ambproto.ts</tspan>
-<tspan x="10" y="1930">119.  2017-04-17 15:26:25 +0000      887 bytes  ts/core/linq/observable/and.ts</tspan>
-<tspan x="10" y="1946">120.  2017-04-17 15:26:25 +0000      429 bytes  ts/core/linq/observable/asobservable.ts</tspan>
-<tspan x="10" y="1962">121.  2017-04-17 15:26:25 +0000      894 bytes  ts/core/linq/observable/average.ts</tspan>
-<tspan x="10" y="1978">122.  2017-04-17 15:26:25 +0000     2794 bytes  ts/core/linq/observable/buffer.ts</tspan>
-<tspan x="10" y="1994">123.  2017-04-17 15:26:25 +0000      754 bytes  ts/core/linq/observable/bufferwithcount.ts</tspan>
-<tspan x="10" y="2010">124.  2017-04-17 15:26:25 +0000     2143 bytes  ts/core/linq/observable/bufferwithtime.ts</tspan>
-<tspan x="10" y="2026">125.  2017-04-17 15:26:25 +0000      988 bytes  ts/core/linq/observable/bufferwithtimeorcount.ts</tspan>
-<tspan x="10" y="2042">126.  2017-04-17 15:26:25 +0000     2528 bytes  ts/core/linq/observable/case.ts</tspan>
-<tspan x="10" y="2058">127.  2017-04-17 15:26:25 +0000     1322 bytes  ts/core/linq/observable/catch.ts</tspan>
-<tspan x="10" y="2074">128.  2017-04-17 15:26:25 +0000     1657 bytes  ts/core/linq/observable/catchproto.ts</tspan>
-<tspan x="10" y="2090">129.  2017-04-17 15:26:25 +0000     8962 bytes  ts/core/linq/observable/combinelatest.ts</tspan>
-<tspan x="10" y="2106">130.  2017-04-17 15:26:25 +0000     9361 bytes  ts/core/linq/observable/combinelatestproto.ts</tspan>
-<tspan x="10" y="2122">131.  2017-04-17 15:26:25 +0000     1154 bytes  ts/core/linq/observable/concat.ts</tspan>
-<tspan x="10" y="2138">132.  2017-04-17 15:26:25 +0000      483 bytes  ts/core/linq/observable/concatall.ts</tspan>
-<tspan x="10" y="2154">133.  2017-04-17 15:26:25 +0000    15992 bytes  ts/core/linq/observable/concatmap.ts</tspan>
-<tspan x="10" y="2170">134.  2017-04-17 15:26:25 +0000     2863 bytes  ts/core/linq/observable/concatmapobserver.ts</tspan>
-<tspan x="10" y="2186">135.  2017-04-17 15:26:25 +0000      655 bytes  ts/core/linq/observable/concatproto.ts</tspan>
-<tspan x="10" y="2202">136.  2017-04-17 15:26:25 +0000     1108 bytes  ts/core/linq/observable/count.ts</tspan>
-<tspan x="10" y="2218">137.  2017-04-17 15:26:25 +0000     1150 bytes  ts/core/linq/observable/create.ts</tspan>
-<tspan x="10" y="2234">138.  2017-04-17 15:26:25 +0000     1293 bytes  ts/core/linq/observable/debounce.ts</tspan>
-<tspan x="10" y="2250">139.  2017-04-17 15:26:25 +0000      855 bytes  ts/core/linq/observable/defaultifempty.ts</tspan>
-<tspan x="10" y="2266">140.  2017-04-17 15:26:25 +0000      900 bytes  ts/core/linq/observable/defer.ts</tspan>
-<tspan x="10" y="2282">141.  2017-04-17 15:26:25 +0000     4092 bytes  ts/core/linq/observable/delay.ts</tspan>
-<tspan x="10" y="2298">142.  2017-04-17 15:26:25 +0000     1033 bytes  ts/core/linq/observable/delaysubscription.ts</tspan>
-<tspan x="10" y="2314">143.  2017-04-17 15:26:25 +0000      505 bytes  ts/core/linq/observable/dematerialize.ts</tspan>
-<tspan x="10" y="2330">144.  2017-04-17 15:26:25 +0000     1251 bytes  ts/core/linq/observable/distinct.ts</tspan>
-<tspan x="10" y="2346">145.  2017-04-17 15:26:25 +0000     1317 bytes  ts/core/linq/observable/distinctuntilchanged.ts</tspan>
-<tspan x="10" y="2362">146.  2017-04-17 15:26:25 +0000      684 bytes  ts/core/linq/observable/dowhile.ts</tspan>
-<tspan x="10" y="2378">147.  2017-04-17 15:26:25 +0000      660 bytes  ts/core/linq/observable/elementat.ts</tspan>
-<tspan x="10" y="2394">148.  2017-04-17 15:26:25 +0000      761 bytes  ts/core/linq/observable/empty.ts</tspan>
-<tspan x="10" y="2410">149.  2017-04-17 15:26:25 +0000      831 bytes  ts/core/linq/observable/every.ts</tspan>
-<tspan x="10" y="2426">150.  2017-04-17 15:26:25 +0000      988 bytes  ts/core/linq/observable/expand.ts</tspan>
-<tspan x="10" y="2442">151.  2017-04-17 15:26:25 +0000     1888 bytes  ts/core/linq/observable/filter.ts</tspan>
-<tspan x="10" y="2458">152.  2017-04-17 15:26:25 +0000     1016 bytes  ts/core/linq/observable/finally.ts</tspan>
-<tspan x="10" y="2474">153.  2017-04-17 15:26:25 +0000      853 bytes  ts/core/linq/observable/find.ts</tspan>
-<tspan x="10" y="2490">154.  2017-04-17 15:26:25 +0000      963 bytes  ts/core/linq/observable/findindex.ts</tspan>
-<tspan x="10" y="2506">155.  2017-04-17 15:26:25 +0000      665 bytes  ts/core/linq/observable/first.ts</tspan>
-<tspan x="10" y="2522">156.  2017-04-17 15:26:25 +0000    16596 bytes  ts/core/linq/observable/flatmap.ts</tspan>
-<tspan x="10" y="2538">157.  2017-04-17 15:26:25 +0000    10608 bytes  ts/core/linq/observable/flatmapfirst.ts</tspan>
-<tspan x="10" y="2554">158.  2017-04-17 15:26:25 +0000    10215 bytes  ts/core/linq/observable/flatmaplatest.ts</tspan>
-<tspan x="10" y="2570">159.  2017-04-17 15:26:25 +0000    17784 bytes  ts/core/linq/observable/flatmapwithmaxconcurrent\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 15:27:27 +0000  6597715 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 15:27:27 +0000      116 bytes  authors.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 15:27:27 +0000      360 bytes  bower.json</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 15:27:27 +0000     1761 bytes  code-of-conduct.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 15:27:27 +0000     1693 bytes  component.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 15:27:27 +0000    11038 bytes  contributing.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 15:27:27 +0000    46012 bytes  dist/rx.aggregates.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 15:27:27 +0000    24876 bytes  dist/rx.aggregates.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 15:27:27 +0000    16331 bytes  dist/rx.aggregates.min.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 15:27:27 +0000   443707 bytes  dist/rx.all.compat.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 15:27:27 +0000   222902 bytes  dist/rx.all.compat.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 15:27:27 +0000   147829 bytes  dist/rx.all.compat.min.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 15:27:27 +0000   437807 bytes  dist/rx.all.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 15:27:27 +0000   216653 bytes  dist/rx.all.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 15:27:27 +0000   144045 bytes  dist/rx.all.min.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 15:27:27 +0000    18446 bytes  dist/rx.async.compat.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 15:27:27 +0000    10524 bytes  dist/rx.async.compat.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 15:27:27 +0000     6383 bytes  dist/rx.async.compat.min.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 15:27:27 +0000    18446 bytes  dist/rx.async.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 15:27:27 +0000    10510 bytes  dist/rx.async.map</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 15:27:27 +0000     6376 bytes  dist/rx.async.min.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 15:27:27 +0000    19208 bytes  dist/rx.backpressure.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 15:27:27 +0000    10877 bytes  dist/rx.backpressure.map</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 15:27:27 +0000     7872 bytes  dist/rx.backpressure.min.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 15:27:27 +0000    23661 bytes  dist/rx.binding.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 15:27:27 +0000     9483 bytes  dist/rx.binding.map</tspan>
+<tspan x="10" y="442"> 26.  2017-04-17 15:27:27 +0000     6476 bytes  dist/rx.binding.min.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-17 15:27:27 +0000    24073 bytes  dist/rx.coincidence.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-17 15:27:27 +0000    11413 bytes  dist/rx.coincidence.map</tspan>
+<tspan x="10" y="490"> 29.  2017-04-17 15:27:27 +0000     6986 bytes  dist/rx.coincidence.min.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-17 15:27:27 +0000   221818 bytes  dist/rx.compat.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-17 15:27:27 +0000   117756 bytes  dist/rx.compat.map</tspan>
+<tspan x="10" y="538"> 32.  2017-04-17 15:27:27 +0000    78904 bytes  dist/rx.compat.min.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-17 15:27:27 +0000    32702 bytes  dist/rx.core.binding.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-17 15:27:27 +0000    13909 bytes  dist/rx.core.binding.map</tspan>
+<tspan x="10" y="586"> 35.  2017-04-17 15:27:27 +0000     9918 bytes  dist/rx.core.binding.min.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-17 15:27:27 +0000    44052 bytes  dist/rx.core.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-17 15:27:27 +0000    23213 bytes  dist/rx.core.map</tspan>
+<tspan x="10" y="634"> 38.  2017-04-17 15:27:27 +0000    15455 bytes  dist/rx.core.min.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-17 15:27:27 +0000    41039 bytes  dist/rx.core.testing.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-17 15:27:27 +0000    20133 bytes  dist/rx.core.testing.map</tspan>
+<tspan x="10" y="682"> 41.  2017-04-17 15:27:27 +0000    13888 bytes  dist/rx.core.testing.min.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-17 15:27:27 +0000    21284 bytes  dist/rx.experimental.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-17 15:27:27 +0000    11727 bytes  dist/rx.experimental.map</tspan>
+<tspan x="10" y="730"> 44.  2017-04-17 15:27:27 +0000     7189 bytes  dist/rx.experimental.min.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-17 15:27:27 +0000    11553 bytes  dist/rx.joinpatterns.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-17 15:27:27 +0000     7430 bytes  dist/rx.joinpatterns.map</tspan>
+<tspan x="10" y="778"> 47.  2017-04-17 15:27:27 +0000     4814 bytes  dist/rx.joinpatterns.min.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-17 15:27:27 +0000   211609 bytes  dist/rx.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-17 15:27:27 +0000   252906 bytes  dist/rx.lite.compat.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-17 15:27:27 +0000   131274 bytes  dist/rx.lite.compat.map</tspan>
+<tspan x="10" y="842"> 51.  2017-04-17 15:27:27 +0000    88570 bytes  dist/rx.lite.compat.min.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-17 15:27:27 +0000    29644 bytes  dist/rx.lite.extras.compat.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-17 15:27:27 +0000    15557 bytes  dist/rx.lite.extras.compat.map</tspan>
+<tspan x="10" y="890"> 54.  2017-04-17 15:27:27 +0000     9607 bytes  dist/rx.lite.extras.compat.min.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-17 15:27:27 +0000    29630 bytes  dist/rx.lite.extras.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-17 15:27:27 +0000    15540 bytes  dist/rx.lite.extras.map</tspan>
+<tspan x="10" y="938"> 57.  2017-04-17 15:27:27 +0000     9586 bytes  dist/rx.lite.extras.min.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-17 15:27:27 +0000   242735 bytes  dist/rx.lite.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-17 15:27:27 +0000   124094 bytes  dist/rx.lite.map</tspan>
+<tspan x="10" y="986"> 60.  2017-04-17 15:27:27 +0000    83684 bytes  dist/rx.lite.min.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-17 15:27:27 +0000   110315 bytes  dist/rx.map</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-17 15:27:27 +0000    74012 bytes  dist/rx.min.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-17 15:27:27 +0000     2844 bytes  dist/rx.sorting.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-17 15:27:27 +0000     1839 bytes  dist/rx.sorting.map</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-17 15:27:27 +0000     1229 bytes  dist/rx.sorting.min.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-17 15:27:27 +0000    19128 bytes  dist/rx.testing.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-17 15:27:27 +0000     9201 bytes  dist/rx.testing.map</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-17 15:27:27 +0000     6535 bytes  dist/rx.testing.min.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-17 15:27:27 +0000    55903 bytes  dist/rx.time.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-17 15:27:27 +0000    26833 bytes  dist/rx.time.map</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-17 15:27:27 +0000    16704 bytes  dist/rx.time.min.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-17 15:27:27 +0000    10677 bytes  dist/rx.virtualtime.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-17 15:27:27 +0000     4683 bytes  dist/rx.virtualtime.map</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-17 15:27:27 +0000     3191 bytes  dist/rx.virtualtime.min.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-17 15:27:27 +0000      404 bytes  index.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-17 15:27:27 +0000      708 bytes  license.txt</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-17 15:27:27 +0000     2860 bytes  package.json</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-17 15:27:27 +0000    18726 bytes  readme.md</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-17 15:27:27 +0000     1675 bytes  ts/core/abstractobserver.ts</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-17 15:27:27 +0000      287 bytes  ts/core/anonymousobservable.ts</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-17 15:27:27 +0000     1456 bytes  ts/core/anonymousobserver.ts</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-17 15:27:27 +0000     1088 bytes  ts/core/backpressure/controlled.ts</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-17 15:27:27 +0000      940 bytes  ts/core/backpressure/pausable.ts</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-17 15:27:27 +0000      871 bytes  ts/core/backpressure/pausablebuffered.ts</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-17 15:27:27 +0000      354 bytes  ts/core/backpressure/pauser.ts</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-17 15:27:27 +0000      473 bytes  ts/core/backpressure/stopandwait.ts</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-17 15:27:27 +0000      583 bytes  ts/core/backpressure/windowed.ts</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-17 15:27:27 +0000      338 bytes  ts/core/checkedobserver.ts</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-17 15:27:27 +0000      377 bytes  ts/core/concurrency/currentthreadscheduler.ts</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-17 15:27:27 +0000      258 bytes  ts/core/concurrency/defaultscheduler.ts</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-17 15:27:27 +0000      704 bytes  ts/core/concurrency/historicalscheduler.ts</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-17 15:27:27 +0000      207 bytes  ts/core/concurrency/immediatescheduler.ts</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-17 15:27:27 +0000     1476 bytes  ts/core/concurrency/scheduleditem.ts</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-17 15:27:27 +0000      595 bytes  ts/core/concurrency/scheduleperiodicrecursive.ts</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-17 15:27:27 +0000      933 bytes  ts/core/concurrency/scheduler.periodic.ts</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-17 15:27:27 +0000     1753 bytes  ts/core/concurrency/scheduler.recursive.ts</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-17 15:27:27 +0000     2201 bytes  ts/core/concurrency/scheduler.ts</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-17 15:27:27 +0000      622 bytes  ts/core/concurrency/scheduler.wrappers.ts</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-17 15:27:27 +0000     2748 bytes  ts/core/concurrency/virtualtimescheduler.ts</tspan>
+<tspan x="10" y="1626">100.  2017-04-17 15:27:27 +0000     1324 bytes  ts/core/disposables/booleandisposable.ts</tspan>
+<tspan x="10" y="1642">101.  2017-04-17 15:27:27 +0000     1602 bytes  ts/core/disposables/compositedisposable.ts</tspan>
+<tspan x="10" y="1658">102.  2017-04-17 15:27:27 +0000     1785 bytes  ts/core/disposables/disposable.ts</tspan>
+<tspan x="10" y="1674">103.  2017-04-17 15:27:27 +0000     1315 bytes  ts/core/disposables/refcountdisposable.ts</tspan>
+<tspan x="10" y="1690">104.  2017-04-17 15:27:27 +0000      930 bytes  ts/core/es5.ts</tspan>
+<tspan x="10" y="1706">105.  2017-04-17 15:27:27 +0000     5351 bytes  ts/core/es6-iterable.d.ts</tspan>
+<tspan x="10" y="1722">106.  2017-04-17 15:27:27 +0000     3813 bytes  ts/core/es6-promise.d.ts</tspan>
+<tspan x="10" y="1738">107.  2017-04-17 15:27:27 +0000      844 bytes  ts/core/es6.ts</tspan>
+<tspan x="10" y="1754">108.  2017-04-17 15:27:27 +0000      216 bytes  ts/core/internal/bindcallback.ts</tspan>
+<tspan x="10" y="1770">109.  2017-04-17 15:27:27 +0000     1028 bytes  ts/core/internal/errors.ts</tspan>
+<tspan x="10" y="1786">110.  2017-04-17 15:27:27 +0000      184 bytes  ts/core/internal/isequal.ts</tspan>
+<tspan x="10" y="1802">111.  2017-04-17 15:27:27 +0000     1304 bytes  ts/core/internal/priorityqueue.ts</tspan>
+<tspan x="10" y="1818">112.  2017-04-17 15:27:27 +0000      612 bytes  ts/core/internal/util.ts</tspan>
+<tspan x="10" y="1834">113.  2017-04-17 15:27:27 +0000     8246 bytes  ts/core/joins/pattern.ts</tspan>
+<tspan x="10" y="1850">114.  2017-04-17 15:27:27 +0000       43 bytes  ts/core/joins/plan.ts</tspan>
+<tspan x="10" y="1866">115.  2017-04-17 15:27:27 +0000      365 bytes  ts/core/linq/connectableobservable.ts</tspan>
+<tspan x="10" y="1882">116.  2017-04-17 15:27:27 +0000      380 bytes  ts/core/linq/groupedobservable.ts</tspan>
+<tspan x="10" y="1898">117.  2017-04-17 15:27:27 +0000     1083 bytes  ts/core/linq/observable/amb.ts</tspan>
+<tspan x="10" y="1914">118.  2017-04-17 15:27:27 +0000      697 bytes  ts/core/linq/observable/ambproto.ts</tspan>
+<tspan x="10" y="1930">119.  2017-04-17 15:27:27 +0000      887 bytes  ts/core/linq/observable/and.ts</tspan>
+<tspan x="10" y="1946">120.  2017-04-17 15:27:27 +0000      429 bytes  ts/core/linq/observable/asobservable.ts</tspan>
+<tspan x="10" y="1962">121.  2017-04-17 15:27:27 +0000      894 bytes  ts/core/linq/observable/average.ts</tspan>
+<tspan x="10" y="1978">122.  2017-04-17 15:27:27 +0000     2794 bytes  ts/core/linq/observable/buffer.ts</tspan>
+<tspan x="10" y="1994">123.  2017-04-17 15:27:27 +0000      754 bytes  ts/core/linq/observable/bufferwithcount.ts</tspan>
+<tspan x="10" y="2010">124.  2017-04-17 15:27:27 +0000     2143 bytes  ts/core/linq/observable/bufferwithtime.ts</tspan>
+<tspan x="10" y="2026">125.  2017-04-17 15:27:27 +0000      988 bytes  ts/core/linq/observable/bufferwithtimeorcount.ts</tspan>
+<tspan x="10" y="2042">126.  2017-04-17 15:27:27 +0000     2528 bytes  ts/core/linq/observable/case.ts</tspan>
+<tspan x="10" y="2058">127.  2017-04-17 15:27:27 +0000     1322 bytes  ts/core/linq/observable/catch.ts</tspan>
+<tspan x="10" y="2074">128.  2017-04-17 15:27:27 +0000     1657 bytes  ts/core/linq/observable/catchproto.ts</tspan>
+<tspan x="10" y="2090">129.  2017-04-17 15:27:27 +0000     8962 bytes  ts/core/linq/observable/combinelatest.ts</tspan>
+<tspan x="10" y="2106">130.  2017-04-17 15:27:27 +0000     9361 bytes  ts/core/linq/observable/combinelatestproto.ts</tspan>
+<tspan x="10" y="2122">131.  2017-04-17 15:27:27 +0000     1154 bytes  ts/core/linq/observable/concat.ts</tspan>
+<tspan x="10" y="2138">132.  2017-04-17 15:27:27 +0000      483 bytes  ts/core/linq/observable/concatall.ts</tspan>
+<tspan x="10" y="2154">133.  2017-04-17 15:27:27 +0000    15992 bytes  ts/core/linq/observable/concatmap.ts</tspan>
+<tspan x="10" y="2170">134.  2017-04-17 15:27:27 +0000     2863 bytes  ts/core/linq/observable/concatmapobserver.ts</tspan>
+<tspan x="10" y="2186">135.  2017-04-17 15:27:27 +0000      655 bytes  ts/core/linq/observable/concatproto.ts</tspan>
+<tspan x="10" y="2202">136.  2017-04-17 15:27:27 +0000     1108 bytes  ts/core/linq/observable/count.ts</tspan>
+<tspan x="10" y="2218">137.  2017-04-17 15:27:27 +0000     1150 bytes  ts/core/linq/observable/create.ts</tspan>
+<tspan x="10" y="2234">138.  2017-04-17 15:27:27 +0000     1293 bytes  ts/core/linq/observable/debounce.ts</tspan>
+<tspan x="10" y="2250">139.  2017-04-17 15:27:27 +0000      855 bytes  ts/core/linq/observable/defaultifempty.ts</tspan>
+<tspan x="10" y="2266">140.  2017-04-17 15:27:27 +0000      900 bytes  ts/core/linq/observable/defer.ts</tspan>
+<tspan x="10" y="2282">141.  2017-04-17 15:27:27 +0000     4092 bytes  ts/core/linq/observable/delay.ts</tspan>
+<tspan x="10" y="2298">142.  2017-04-17 15:27:27 +0000     1033 bytes  ts/core/linq/observable/delaysubscription.ts</tspan>
+<tspan x="10" y="2314">143.  2017-04-17 15:27:27 +0000      505 bytes  ts/core/linq/observable/dematerialize.ts</tspan>
+<tspan x="10" y="2330">144.  2017-04-17 15:27:27 +0000     1251 bytes  ts/core/linq/observable/distinct.ts</tspan>
+<tspan x="10" y="2346">145.  2017-04-17 15:27:27 +0000     1317 bytes  ts/core/linq/observable/distinctuntilchanged.ts</tspan>
+<tspan x="10" y="2362">146.  2017-04-17 15:27:27 +0000      684 bytes  ts/core/linq/observable/dowhile.ts</tspan>
+<tspan x="10" y="2378">147.  2017-04-17 15:27:27 +0000      660 bytes  ts/core/linq/observable/elementat.ts</tspan>
+<tspan x="10" y="2394">148.  2017-04-17 15:27:27 +0000      761 bytes  ts/core/linq/observable/empty.ts</tspan>
+<tspan x="10" y="2410">149.  2017-04-17 15:27:27 +0000      831 bytes  ts/core/linq/observable/every.ts</tspan>
+<tspan x="10" y="2426">150.  2017-04-17 15:27:27 +0000      988 bytes  ts/core/linq/observable/expand.ts</tspan>
+<tspan x="10" y="2442">151.  2017-04-17 15:27:27 +0000     1888 bytes  ts/core/linq/observable/filter.ts</tspan>
+<tspan x="10" y="2458">152.  2017-04-17 15:27:27 +0000     1016 bytes  ts/core/linq/observable/finally.ts</tspan>
+<tspan x="10" y="2474">153.  2017-04-17 15:27:27 +0000      853 bytes  ts/core/linq/observable/find.ts</tspan>
+<tspan x="10" y="2490">154.  2017-04-17 15:27:27 +0000      963 bytes  ts/core/linq/observable/findindex.ts</tspan>
+<tspan x="10" y="2506">155.  2017-04-17 15:27:27 +0000      665 bytes  ts/core/linq/observable/first.ts</tspan>
+<tspan x="10" y="2522">156.  2017-04-17 15:27:27 +0000    16596 bytes  ts/core/linq/observable/flatmap.ts</tspan>
+<tspan x="10" y="2538">157.  2017-04-17 15:27:27 +0000    10608 bytes  ts/core/linq/observable/flatmapfirst.ts</tspan>
+<tspan x="10" y="2554">158.  2017-04-17 15:27:27 +0000    10215 bytes  ts/core/linq/observable/flatmaplatest.ts</tspan>
+<tspan x="10" y="2570">159.  2017-04-17 15:27:27 +0000    17784 bytes  ts/core/linq/observable/flatmapwithmaxconcurrent\</tspan>
 <tspan x="10" y="2586">.ts</tspan>
-<tspan x="10" y="2602">160.  2017-04-17 15:26:25 +0000     1537 bytes  ts/core/linq/observable/for.ts</tspan>
-<tspan x="10" y="2618">161.  2017-04-17 15:26:25 +0000     1179 bytes  ts/core/linq/observable/forkjoin.ts</tspan>
-<tspan x="10" y="2634">162.  2017-04-17 15:26:25 +0000      871 bytes  ts/core/linq/observable/forkjoinproto.ts</tspan>
-<tspan x="10" y="2650">163.  2017-04-17 15:26:25 +0000     1735 bytes  ts/core/linq/observable/from.ts</tspan>
-<tspan x="10" y="2666">164.  2017-04-17 15:26:25 +0000      772 bytes  ts/core/linq/observable/fromarray.ts</tspan>
-<tspan x="10" y="2682">165.  2017-04-17 15:26:25 +0000     9610 bytes  ts/core/linq/observable/fromcallback.ts</tspan>
-<tspan x="10" y="2698">166.  2017-04-17 15:26:25 +0000     1645 bytes  ts/core/linq/observable/fromevent.ts</tspan>
-<tspan x="10" y="2714">167.  2017-04-17 15:26:25 +0000      822 bytes  ts/core/linq/observable/fromeventpattern.ts</tspan>
-<tspan x="10" y="2730">168.  2017-04-17 15:26:25 +0000     9016 bytes  ts/core/linq/observable/fromnodecallback.ts</tspan>
-<tspan x="10" y="2746">169.  2017-04-17 15:26:25 +0000      517 bytes  ts/core/linq/observable/frompromise.ts</tspan>
-<tspan x="10" y="2762">170.  2017-04-17 15:26:25 +0000     1427 bytes  ts/core/linq/observable/generate.ts</tspan>
-<tspan x="10" y="2778">171.  2017-04-17 15:26:25 +0000     1616 bytes  ts/core/linq/observable/generatewithabsolutetime\</tspan>
+<tspan x="10" y="2602">160.  2017-04-17 15:27:27 +0000     1537 bytes  ts/core/linq/observable/for.ts</tspan>
+<tspan x="10" y="2618">161.  2017-04-17 15:27:27 +0000     1179 bytes  ts/core/linq/observable/forkjoin.ts</tspan>
+<tspan x="10" y="2634">162.  2017-04-17 15:27:27 +0000      871 bytes  ts/core/linq/observable/forkjoinproto.ts</tspan>
+<tspan x="10" y="2650">163.  2017-04-17 15:27:27 +0000     1735 bytes  ts/core/linq/observable/from.ts</tspan>
+<tspan x="10" y="2666">164.  2017-04-17 15:27:27 +0000      772 bytes  ts/core/linq/observable/fromarray.ts</tspan>
+<tspan x="10" y="2682">165.  2017-04-17 15:27:27 +0000     9610 bytes  ts/core/linq/observable/fromcallback.ts</tspan>
+<tspan x="10" y="2698">166.  2017-04-17 15:27:27 +0000     1645 bytes  ts/core/linq/observable/fromevent.ts</tspan>
+<tspan x="10" y="2714">167.  2017-04-17 15:27:27 +0000      822 bytes  ts/core/linq/observable/fromeventpattern.ts</tspan>
+<tspan x="10" y="2730">168.  2017-04-17 15:27:27 +0000     9016 bytes  ts/core/linq/observable/fromnodecallback.ts</tspan>
+<tspan x="10" y="2746">169.  2017-04-17 15:27:27 +0000      517 bytes  ts/core/linq/observable/frompromise.ts</tspan>
+<tspan x="10" y="2762">170.  2017-04-17 15:27:27 +0000     1427 bytes  ts/core/linq/observable/generate.ts</tspan>
+<tspan x="10" y="2778">171.  2017-04-17 15:27:27 +0000     1616 bytes  ts/core/linq/observable/generatewithabsolutetime\</tspan>
 <tspan x="10" y="2794">.ts</tspan>
-<tspan x="10" y="2810">172.  2017-04-17 15:26:25 +0000     1635 bytes  ts/core/linq/observable/generatewithrelativetime\</tspan>
+<tspan x="10" y="2810">172.  2017-04-17 15:27:27 +0000     1635 bytes  ts/core/linq/observable/generatewithrelativetime\</tspan>
 <tspan x="10" y="2826">.ts</tspan>
-<tspan x="10" y="2842">173.  2017-04-17 15:26:25 +0000     2343 bytes  ts/core/linq/observable/groupby.ts</tspan>
-<tspan x="10" y="2858">174.  2017-04-17 15:26:25 +0000     3557 bytes  ts/core/linq/observable/groupbyuntil.ts</tspan>
-<tspan x="10" y="2874">175.  2017-04-17 15:26:25 +0000     1680 bytes  ts/core/linq/observable/groupjoin.ts</tspan>
-<tspan x="10" y="2890">176.  2017-04-17 15:26:25 +0000     1388 bytes  ts/core/linq/observable/if.ts</tspan>
-<tspan x="10" y="2906">177.  2017-04-17 15:26:25 +0000      480 bytes  ts/core/linq/observable/ignoreelements.ts</tspan>
-<tspan x="10" y="2922">178.  2017-04-17 15:26:25 +0000      783 bytes  ts/core/linq/observable/includes.ts</tspan>
-<tspan x="10" y="2938">179.  2017-04-17 15:26:25 +0000      833 bytes  ts/core/linq/observable/indexof.ts</tspan>
-<tspan x="10" y="2954">180.  2017-04-17 15:26:25 +0000      967 bytes  ts/core/linq/observable/interval.ts</tspan>
-<tspan x="10" y="2970">181.  2017-04-17 15:26:25 +0000      469 bytes  ts/core/linq/observable/isempty.ts</tspan>
-<tspan x="10" y="2986">182.  2017-04-17 15:26:25 +0000     1519 bytes  ts/core/linq/observable/join.ts</tspan>
-<tspan x="10" y="3002">183.  2017-04-17 15:26:25 +0000      536 bytes  ts/core/linq/observable/jortsort.ts</tspan>
-<tspan x="10" y="3018">184.  2017-04-17 15:26:25 +0000      556 bytes  ts/core/linq/observable/jortsortuntil.ts</tspan>
-<tspan x="10" y="3034">185.  2017-04-17 15:26:25 +0000     1616 bytes  ts/core/linq/observable/just.ts</tspan>
-<tspan x="10" y="3050">186.  2017-04-17 15:26:25 +0000      600 bytes  ts/core/linq/observable/last.ts</tspan>
-<tspan x="10" y="3066">187.  2017-04-17 15:26:25 +0000      968 bytes  ts/core/linq/observable/let.ts</tspan>
-<tspan x="10" y="3082">188.  2017-04-17 15:26:25 +0000     1358 bytes  ts/core/linq/observable/manyselect.ts</tspan>
-<tspan x="10" y="3098">189.  2017-04-17 15:26:25 +0000     1536 bytes  ts/core/linq/observable/map.ts</tspan>
-<tspan x="10" y="3114">190.  2017-04-17 15:26:25 +0000      483 bytes  ts/core/linq/observable/materialize.ts</tspan>
-<tspan x="10" y="3130">191.  2017-04-17 15:26:25 +0000      781 bytes  ts/core/linq/observable/max.ts</tspan>
-<tspan x="10" y="3146">192.  2017-04-17 15:26:25 +0000     1679 bytes  ts/core/linq/observable/maxby.ts</tspan>
-<tspan x="10" y="3162">193.  2017-04-17 15:26:25 +0000     1998 bytes  ts/core/linq/observable/merge.ts</tspan>
-<tspan x="10" y="3178">194.  2017-04-17 15:26:25 +0000      467 bytes  ts/core/linq/observable/mergeall.ts</tspan>
-<tspan x="10" y="3194">195.  2017-04-17 15:26:25 +0000     1700 bytes  ts/core/linq/observable/mergeconcat.ts</tspan>
-<tspan x="10" y="3210">196.  2017-04-17 15:26:25 +0000     2076 bytes  ts/core/linq/observable/mergedelayerror.ts</tspan>
-<tspan x="10" y="3226">197.  2017-04-17 15:26:25 +0000      826 bytes  ts/core/linq/observable/min.ts</tspan>
-<tspan x="10" y="3242">198.  2017-04-17 15:26:25 +0000     1673 bytes  ts/core/linq/observable/minby.ts</tspan>
-<tspan x="10" y="3258">199.  2017-04-17 15:26:25 +0000     3491 bytes  ts/core/linq/observable/multicast.ts</tspan>
-<tspan x="10" y="3274">200.  2017-04-17 15:26:25 +0000      547 bytes  ts/core/linq/observable/never.ts</tspan>
-<tspan x="10" y="3290">201.  2017-04-17 15:26:25 +0000      842 bytes  ts/core/linq/observable/observeon.ts</tspan>
-<tspan x="10" y="3306">202.  2017-04-17 15:26:25 +0000     1091 bytes  ts/core/linq/observable/of.ts</tspan>
-<tspan x="10" y="3322">203.  2017-04-17 15:26:25 +0000      798 bytes  ts/core/linq/observable/ofarraychanges.ts</tspan>
-<tspan x="10" y="3338">204.  2017-04-17 15:26:25 +0000      719 bytes  ts/core/linq/observable/ofobjectchanges.ts</tspan>
-<tspan x="10" y="3354">205.  2017-04-17 15:26:25 +0000     1358 bytes  ts/core/linq/observable/onerrorresumenext.ts</tspan>
-<tspan x="10" y="3370">206.  2017-04-17 15:26:25 +0000      754 bytes  ts/core/linq/observable/onerrorresumenextproto.t\</tspan>
+<tspan x="10" y="2842">173.  2017-04-17 15:27:27 +0000     2343 bytes  ts/core/linq/observable/groupby.ts</tspan>
+<tspan x="10" y="2858">174.  2017-04-17 15:27:27 +0000     3557 bytes  ts/core/linq/observable/groupbyuntil.ts</tspan>
+<tspan x="10" y="2874">175.  2017-04-17 15:27:27 +0000     1680 bytes  ts/core/linq/observable/groupjoin.ts</tspan>
+<tspan x="10" y="2890">176.  2017-04-17 15:27:27 +0000     1388 bytes  ts/core/linq/observable/if.ts</tspan>
+<tspan x="10" y="2906">177.  2017-04-17 15:27:27 +0000      480 bytes  ts/core/linq/observable/ignoreelements.ts</tspan>
+<tspan x="10" y="2922">178.  2017-04-17 15:27:27 +0000      783 bytes  ts/core/linq/observable/includes.ts</tspan>
+<tspan x="10" y="2938">179.  2017-04-17 15:27:27 +0000      833 bytes  ts/core/linq/observable/indexof.ts</tspan>
+<tspan x="10" y="2954">180.  2017-04-17 15:27:27 +0000      967 bytes  ts/core/linq/observable/interval.ts</tspan>
+<tspan x="10" y="2970">181.  2017-04-17 15:27:27 +0000      469 bytes  ts/core/linq/observable/isempty.ts</tspan>
+<tspan x="10" y="2986">182.  2017-04-17 15:27:27 +0000     1519 bytes  ts/core/linq/observable/join.ts</tspan>
+<tspan x="10" y="3002">183.  2017-04-17 15:27:27 +0000      536 bytes  ts/core/linq/observable/jortsort.ts</tspan>
+<tspan x="10" y="3018">184.  2017-04-17 15:27:27 +0000      556 bytes  ts/core/linq/observable/jortsortuntil.ts</tspan>
+<tspan x="10" y="3034">185.  2017-04-17 15:27:27 +0000     1616 bytes  ts/core/linq/observable/just.ts</tspan>
+<tspan x="10" y="3050">186.  2017-04-17 15:27:27 +0000      600 bytes  ts/core/linq/observable/last.ts</tspan>
+<tspan x="10" y="3066">187.  2017-04-17 15:27:27 +0000      968 bytes  ts/core/linq/observable/let.ts</tspan>
+<tspan x="10" y="3082">188.  2017-04-17 15:27:27 +0000     1358 bytes  ts/core/linq/observable/manyselect.ts</tspan>
+<tspan x="10" y="3098">189.  2017-04-17 15:27:27 +0000     1536 bytes  ts/core/linq/observable/map.ts</tspan>
+<tspan x="10" y="3114">190.  2017-04-17 15:27:27 +0000      483 bytes  ts/core/linq/observable/materialize.ts</tspan>
+<tspan x="10" y="3130">191.  2017-04-17 15:27:27 +0000      781 bytes  ts/core/linq/observable/max.ts</tspan>
+<tspan x="10" y="3146">192.  2017-04-17 15:27:27 +0000     1679 bytes  ts/core/linq/observable/maxby.ts</tspan>
+<tspan x="10" y="3162">193.  2017-04-17 15:27:27 +0000     1998 bytes  ts/core/linq/observable/merge.ts</tspan>
+<tspan x="10" y="3178">194.  2017-04-17 15:27:27 +0000      467 bytes  ts/core/linq/observable/mergeall.ts</tspan>
+<tspan x="10" y="3194">195.  2017-04-17 15:27:27 +0000     1700 bytes  ts/core/linq/observable/mergeconcat.ts</tspan>
+<tspan x="10" y="3210">196.  2017-04-17 15:27:27 +0000     2076 bytes  ts/core/linq/observable/mergedelayerror.ts</tspan>
+<tspan x="10" y="3226">197.  2017-04-17 15:27:27 +0000      826 bytes  ts/core/linq/observable/min.ts</tspan>
+<tspan x="10" y="3242">198.  2017-04-17 15:27:27 +0000     1673 bytes  ts/core/linq/observable/minby.ts</tspan>
+<tspan x="10" y="3258">199.  2017-04-17 15:27:27 +0000     3491 bytes  ts/core/linq/observable/multicast.ts</tspan>
+<tspan x="10" y="3274">200.  2017-04-17 15:27:27 +0000      547 bytes  ts/core/linq/observable/never.ts</tspan>
+<tspan x="10" y="3290">201.  2017-04-17 15:27:27 +0000      842 bytes  ts/core/linq/observable/observeon.ts</tspan>
+<tspan x="10" y="3306">202.  2017-04-17 15:27:27 +0000     1091 bytes  ts/core/linq/observable/of.ts</tspan>
+<tspan x="10" y="3322">203.  2017-04-17 15:27:27 +0000      798 bytes  ts/core/linq/observable/ofarraychanges.ts</tspan>
+<tspan x="10" y="3338">204.  2017-04-17 15:27:27 +0000      719 bytes  ts/core/linq/observable/ofobjectchanges.ts</tspan>
+<tspan x="10" y="3354">205.  2017-04-17 15:27:27 +0000     1358 bytes  ts/core/linq/observable/onerrorresumenext.ts</tspan>
+<tspan x="10" y="3370">206.  2017-04-17 15:27:27 +0000      754 bytes  ts/core/linq/observable/onerrorresumenextproto.t\</tspan>
 <tspan x="10" y="3386">s</tspan>
-<tspan x="10" y="3402">207.  2017-04-17 15:26:25 +0000     1439 bytes  ts/core/linq/observable/pairs.ts</tspan>
-<tspan x="10" y="3418">208.  2017-04-17 15:26:25 +0000      783 bytes  ts/core/linq/observable/pairwise.ts</tspan>
-<tspan x="10" y="3434">209.  2017-04-17 15:26:25 +0000     1216 bytes  ts/core/linq/observable/partition.ts</tspan>
-<tspan x="10" y="3450">210.  2017-04-17 15:26:25 +0000      403 bytes  ts/core/linq/observable/pipe.ts</tspan>
-<tspan x="10" y="3466">211.  2017-04-17 15:26:25 +0000      574 bytes  ts/core/linq/observable/pluck.ts</tspan>
-<tspan x="10" y="3482">212.  2017-04-17 15:26:25 +0000     2336 bytes  ts/core/linq/observable/publish.ts</tspan>
-<tspan x="10" y="3498">213.  2017-04-17 15:26:25 +0000     2373 bytes  ts/core/linq/observable/publishlast.ts</tspan>
-<tspan x="10" y="3514">214.  2017-04-17 15:26:25 +0000     2860 bytes  ts/core/linq/observable/publishvalue.ts</tspan>
-<tspan x="10" y="3530">215.  2017-04-17 15:26:25 +0000     1113 bytes  ts/core/linq/observable/range.ts</tspan>
-<tspan x="10" y="3546">216.  2017-04-17 15:26:25 +0000     1637 bytes  ts/core/linq/observable/reduce.ts</tspan>
-<tspan x="10" y="3562">217.  2017-04-17 15:26:25 +0000     1347 bytes  ts/core/linq/observable/repeat.ts</tspan>
-<tspan x="10" y="3578">218.  2017-04-17 15:26:25 +0000      660 bytes  ts/core/linq/observable/repeatproto.ts</tspan>
-<tspan x="10" y="3594">219.  2017-04-17 15:26:25 +0000     3601 bytes  ts/core/linq/observable/replay.ts</tspan>
-<tspan x="10" y="3610">220.  2017-04-17 15:26:25 +0000      935 bytes  ts/core/linq/observable/retry.ts</tspan>
-<tspan x="10" y="3626">221.  2017-04-17 15:26:25 +0000      944 bytes  ts/core/linq/observable/retrywhen.ts</tspan>
-<tspan x="10" y="3642">222.  2017-04-17 15:26:25 +0000     3603 bytes  ts/core/linq/observable/sample.ts</tspan>
-<tspan x="10" y="3658">223.  2017-04-17 15:26:25 +0000     1804 bytes  ts/core/linq/observable/scan.ts</tspan>
-<tspan x="10" y="3674">224.  2017-04-17 15:26:25 +0000     2806 bytes  ts/core/linq/observable/selectmanyobserver.ts</tspan>
-<tspan x="10" y="3690">225.  2017-04-17 15:26:25 +0000     2467 bytes  ts/core/linq/observable/sequenceequal.ts</tspan>
-<tspan x="10" y="3706">226.  2017-04-17 15:26:25 +0000      902 bytes  ts/core/linq/observable/share.ts</tspan>
-<tspan x="10" y="3722">227.  2017-04-17 15:26:25 +0000     1629 bytes  ts/core/linq/observable/sharereplay.ts</tspan>
-<tspan x="10" y="3738">228.  2017-04-17 15:26:25 +0000     1060 bytes  ts/core/linq/observable/sharevalue.ts</tspan>
-<tspan x="10" y="3754">229.  2017-04-17 15:26:25 +0000      993 bytes  ts/core/linq/observable/single.ts</tspan>
-<tspan x="10" y="3770">230.  2017-04-17 15:26:25 +0000      764 bytes  ts/core/linq/observable/singleinstance.ts</tspan>
-<tspan x="10" y="3786">231.  2017-04-17 15:26:25 +0000      603 bytes  ts/core/linq/observable/skip.ts</tspan>
-<tspan x="10" y="3802">232.  2017-04-17 15:26:25 +0000      849 bytes  ts/core/linq/observable/skiplast.ts</tspan>
-<tspan x="10" y="3818">233.  2017-04-17 15:26:25 +0000     1408 bytes  ts/core/linq/observable/skiplastwithtime.ts</tspan>
-<tspan x="10" y="3834">234.  2017-04-17 15:26:25 +0000      743 bytes  ts/core/linq/observable/skipuntil.ts</tspan>
-<tspan x="10" y="3850">235.  2017-04-17 15:26:25 +0000     2376 bytes  ts/core/linq/observable/skipuntilwithtime.ts</tspan>
-<tspan x="10" y="3866">236.  2017-04-17 15:26:25 +0000     1063 bytes  ts/core/linq/observable/skipwhile.ts</tspan>
-<tspan x="10" y="3882">237.  2017-04-17 15:26:25 +0000     1551 bytes  ts/core/linq/observable/skipwithtime.ts</tspan>
-<tspan x="10" y="3898">238.  2017-04-17 15:26:25 +0000      853 bytes  ts/core/linq/observable/some.ts</tspan>
-<tspan x="10" y="3914">239.  2017-04-17 15:26:25 +0000      197 bytes  ts/core/linq/observable/spawn.ts</tspan>
-<tspan x="10" y="3930">240.  2017-04-17 15:26:25 +0000     1662 bytes  ts/core/linq/observable/start.ts</tspan>
-<tspan x="10" y="3946">241.  2017-04-17 15:26:25 +0000      629 bytes  ts/core/linq/observable/startasync.ts</tspan>
-<tspan x="10" y="3962">242.  2017-04-17 15:26:25 +0000     1330 bytes  ts/core/linq/observable/startwith.ts</tspan>
-<tspan x="10" y="3978">243.  2017-04-17 15:26:25 +0000     1032 bytes  ts/core/linq/observable/subscribeon.ts</tspan>
-<tspan x="10" y="3994">244.  2017-04-17 15:26:25 +0000      918 bytes  ts/core/linq/observable/sum.ts</tspan>
-<tspan x="10" y="4010">245.  2017-04-17 15:26:25 +0000     1012 bytes  ts/core/linq/observable/switch.ts</tspan>
-<tspan x="10" y="4026">246.  2017-04-17 15:26:25 +0000      578 bytes  ts/core/linq/observable/switchfirst.ts</tspan>
-<tspan x="10" y="4042">247.  2017-04-17 15:26:25 +0000      966 bytes  ts/core/linq/observable/take.ts</tspan>
-<tspan x="10" y="4058">248.  2017-04-17 15:26:25 +0000      901 bytes  ts/core/linq/observable/takelast.ts</tspan>
-<tspan x="10" y="4074">249.  2017-04-17 15:26:25 +0000      894 bytes  ts/core/linq/observable/takelastbuffer.ts</tspan>
-<tspan x="10" y="4090">250.  2017-04-17 15:26:25 +0000     1375 bytes  ts/core/linq/observable/takelastbufferwithtime.t\</tspan>
+<tspan x="10" y="3402">207.  2017-04-17 15:27:27 +0000     1439 bytes  ts/core/linq/observable/pairs.ts</tspan>
+<tspan x="10" y="3418">208.  2017-04-17 15:27:27 +0000      783 bytes  ts/core/linq/observable/pairwise.ts</tspan>
+<tspan x="10" y="3434">209.  2017-04-17 15:27:27 +0000     1216 bytes  ts/core/linq/observable/partition.ts</tspan>
+<tspan x="10" y="3450">210.  2017-04-17 15:27:27 +0000      403 bytes  ts/core/linq/observable/pipe.ts</tspan>
+<tspan x="10" y="3466">211.  2017-04-17 15:27:27 +0000      574 bytes  ts/core/linq/observable/pluck.ts</tspan>
+<tspan x="10" y="3482">212.  2017-04-17 15:27:27 +0000     2336 bytes  ts/core/linq/observable/publish.ts</tspan>
+<tspan x="10" y="3498">213.  2017-04-17 15:27:27 +0000     2373 bytes  ts/core/linq/observable/publishlast.ts</tspan>
+<tspan x="10" y="3514">214.  2017-04-17 15:27:27 +0000     2860 bytes  ts/core/linq/observable/publishvalue.ts</tspan>
+<tspan x="10" y="3530">215.  2017-04-17 15:27:27 +0000     1113 bytes  ts/core/linq/observable/range.ts</tspan>
+<tspan x="10" y="3546">216.  2017-04-17 15:27:27 +0000     1637 bytes  ts/core/linq/observable/reduce.ts</tspan>
+<tspan x="10" y="3562">217.  2017-04-17 15:27:27 +0000     1347 bytes  ts/core/linq/observable/repeat.ts</tspan>
+<tspan x="10" y="3578">218.  2017-04-17 15:27:27 +0000      660 bytes  ts/core/linq/observable/repeatproto.ts</tspan>
+<tspan x="10" y="3594">219.  2017-04-17 15:27:27 +0000     3601 bytes  ts/core/linq/observable/replay.ts</tspan>
+<tspan x="10" y="3610">220.  2017-04-17 15:27:27 +0000      935 bytes  ts/core/linq/observable/retry.ts</tspan>
+<tspan x="10" y="3626">221.  2017-04-17 15:27:27 +0000      944 bytes  ts/core/linq/observable/retrywhen.ts</tspan>
+<tspan x="10" y="3642">222.  2017-04-17 15:27:27 +0000     3603 bytes  ts/core/linq/observable/sample.ts</tspan>
+<tspan x="10" y="3658">223.  2017-04-17 15:27:27 +0000     1804 bytes  ts/core/linq/observable/scan.ts</tspan>
+<tspan x="10" y="3674">224.  2017-04-17 15:27:27 +0000     2806 bytes  ts/core/linq/observable/selectmanyobserver.ts</tspan>
+<tspan x="10" y="3690">225.  2017-04-17 15:27:27 +0000     2467 bytes  ts/core/linq/observable/sequenceequal.ts</tspan>
+<tspan x="10" y="3706">226.  2017-04-17 15:27:27 +0000      902 bytes  ts/core/linq/observable/share.ts</tspan>
+<tspan x="10" y="3722">227.  2017-04-17 15:27:27 +0000     1629 bytes  ts/core/linq/observable/sharereplay.ts</tspan>
+<tspan x="10" y="3738">228.  2017-04-17 15:27:27 +0000     1060 bytes  ts/core/linq/observable/sharevalue.ts</tspan>
+<tspan x="10" y="3754">229.  2017-04-17 15:27:27 +0000      993 bytes  ts/core/linq/observable/single.ts</tspan>
+<tspan x="10" y="3770">230.  2017-04-17 15:27:27 +0000      764 bytes  ts/core/linq/observable/singleinstance.ts</tspan>
+<tspan x="10" y="3786">231.  2017-04-17 15:27:27 +0000      603 bytes  ts/core/linq/observable/skip.ts</tspan>
+<tspan x="10" y="3802">232.  2017-04-17 15:27:27 +0000      849 bytes  ts/core/linq/observable/skiplast.ts</tspan>
+<tspan x="10" y="3818">233.  2017-04-17 15:27:27 +0000     1408 bytes  ts/core/linq/observable/skiplastwithtime.ts</tspan>
+<tspan x="10" y="3834">234.  2017-04-17 15:27:27 +0000      743 bytes  ts/core/linq/observable/skipuntil.ts</tspan>
+<tspan x="10" y="3850">235.  2017-04-17 15:27:27 +0000     2376 bytes  ts/core/linq/observable/skipuntilwithtime.ts</tspan>
+<tspan x="10" y="3866">236.  2017-04-17 15:27:27 +0000     1063 bytes  ts/core/linq/observable/skipwhile.ts</tspan>
+<tspan x="10" y="3882">237.  2017-04-17 15:27:27 +0000     1551 bytes  ts/core/linq/observable/skipwithtime.ts</tspan>
+<tspan x="10" y="3898">238.  2017-04-17 15:27:27 +0000      853 bytes  ts/core/linq/observable/some.ts</tspan>
+<tspan x="10" y="3914">239.  2017-04-17 15:27:27 +0000      197 bytes  ts/core/linq/observable/spawn.ts</tspan>
+<tspan x="10" y="3930">240.  2017-04-17 15:27:27 +0000     1662 bytes  ts/core/linq/observable/start.ts</tspan>
+<tspan x="10" y="3946">241.  2017-04-17 15:27:27 +0000      629 bytes  ts/core/linq/observable/startasync.ts</tspan>
+<tspan x="10" y="3962">242.  2017-04-17 15:27:27 +0000     1330 bytes  ts/core/linq/observable/startwith.ts</tspan>
+<tspan x="10" y="3978">243.  2017-04-17 15:27:27 +0000     1032 bytes  ts/core/linq/observable/subscribeon.ts</tspan>
+<tspan x="10" y="3994">244.  2017-04-17 15:27:27 +0000      918 bytes  ts/core/linq/observable/sum.ts</tspan>
+<tspan x="10" y="4010">245.  2017-04-17 15:27:27 +0000     1012 bytes  ts/core/linq/observable/switch.ts</tspan>
+<tspan x="10" y="4026">246.  2017-04-17 15:27:27 +0000      578 bytes  ts/core/linq/observable/switchfirst.ts</tspan>
+<tspan x="10" y="4042">247.  2017-04-17 15:27:27 +0000      966 bytes  ts/core/linq/observable/take.ts</tspan>
+<tspan x="10" y="4058">248.  2017-04-17 15:27:27 +0000      901 bytes  ts/core/linq/observable/takelast.ts</tspan>
+<tspan x="10" y="4074">249.  2017-04-17 15:27:27 +0000      894 bytes  ts/core/linq/observable/takelastbuffer.ts</tspan>
+<tspan x="10" y="4090">250.  2017-04-17 15:27:27 +0000     1375 bytes  ts/core/linq/observable/takelastbufferwithtime.t\</tspan>
 <tspan x="10" y="4106">s</tspan>
-<tspan x="10" y="4122">251.  2017-04-17 15:26:25 +0000     1367 bytes  ts/core/linq/observable/takelastwithtime.ts</tspan>
-<tspan x="10" y="4138">252.  2017-04-17 15:26:25 +0000      739 bytes  ts/core/linq/observable/takeuntil.ts</tspan>
-<tspan x="10" y="4154">253.  2017-04-17 15:26:25 +0000     1656 bytes  ts/core/linq/observable/takeuntilwithtime.ts</tspan>
-<tspan x="10" y="4170">254.  2017-04-17 15:26:25 +0000      796 bytes  ts/core/linq/observable/takewhile.ts</tspan>
-<tspan x="10" y="4186">255.  2017-04-17 15:26:25 +0000     1365 bytes  ts/core/linq/observable/takewithtime.ts</tspan>
-<tspan x="10" y="4202">256.  2017-04-17 15:26:25 +0000     8656 bytes  ts/core/linq/observable/tap.ts</tspan>
-<tspan x="10" y="4218">257.  2017-04-17 15:26:25 +0000      554 bytes  ts/core/linq/observable/thendo.ts</tspan>
-<tspan x="10" y="4234">258.  2017-04-17 15:26:25 +0000      903 bytes  ts/core/linq/observable/throttle.ts</tspan>
-<tspan x="10" y="4250">259.  2017-04-17 15:26:25 +0000     1588 bytes  ts/core/linq/observable/throw.ts</tspan>
-<tspan x="10" y="4266">260.  2017-04-17 15:26:25 +0000      926 bytes  ts/core/linq/observable/timeinterval.ts</tspan>
-<tspan x="10" y="4282">261.  2017-04-17 15:26:25 +0000     5786 bytes  ts/core/linq/observable/timeout.ts</tspan>
-<tspan x="10" y="4298">262.  2017-04-17 15:26:25 +0000     2104 bytes  ts/core/linq/observable/timer.ts</tspan>
-<tspan x="10" y="4314">263.  2017-04-17 15:26:25 +0000      960 bytes  ts/core/linq/observable/timestamp.ts</tspan>
-<tspan x="10" y="4330">264.  2017-04-17 15:26:25 +0000      476 bytes  ts/core/linq/observable/toarray.ts</tspan>
-<tspan x="10" y="4346">265.  2017-04-17 15:26:25 +0000     4468 bytes  ts/core/linq/observable/toasync.ts</tspan>
-<tspan x="10" y="4362">266.  2017-04-17 15:26:25 +0000     1294 bytes  ts/core/linq/observable/tomap.ts</tspan>
-<tspan x="10" y="4378">267.  2017-04-17 15:26:25 +0000     1722 bytes  ts/core/linq/observable/topromise.ts</tspan>
-<tspan x="10" y="4394">268.  2017-04-17 15:26:25 +0000      369 bytes  ts/core/linq/observable/toset.ts</tspan>
-<tspan x="10" y="4410">269.  2017-04-17 15:26:25 +0000      435 bytes  ts/core/linq/observable/transduce.ts</tspan>
-<tspan x="10" y="4426">270.  2017-04-17 15:26:25 +0000      938 bytes  ts/core/linq/observable/using.ts</tspan>
-<tspan x="10" y="4442">271.  2017-04-17 15:26:25 +0000      538 bytes  ts/core/linq/observable/when.ts</tspan>
-<tspan x="10" y="4458">272.  2017-04-17 15:26:25 +0000     1433 bytes  ts/core/linq/observable/while.ts</tspan>
-<tspan x="10" y="4474">273.  2017-04-17 15:26:25 +0000     2866 bytes  ts/core/linq/observable/window.ts</tspan>
-<tspan x="10" y="4490">274.  2017-04-17 15:26:25 +0000      879 bytes  ts/core/linq/observable/windowwithcount.ts</tspan>
-<tspan x="10" y="4506">275.  2017-04-17 15:26:25 +0000     2194 bytes  ts/core/linq/observable/windowwithtime.ts</tspan>
-<tspan x="10" y="4522">276.  2017-04-17 15:26:25 +0000     1025 bytes  ts/core/linq/observable/windowwithtimeorcount.ts</tspan>
-<tspan x="10" y="4538">277.  2017-04-17 15:26:25 +0000     6302 bytes  ts/core/linq/observable/withlatestfrom.ts</tspan>
-<tspan x="10" y="4554">278.  2017-04-17 15:26:25 +0000    15370 bytes  ts/core/linq/observable/zip.ts</tspan>
-<tspan x="10" y="4570">279.  2017-04-17 15:26:25 +0000      945 bytes  ts/core/linq/observable/zipiterable.ts</tspan>
-<tspan x="10" y="4586">280.  2017-04-17 15:26:25 +0000     3948 bytes  ts/core/notification.ts</tspan>
-<tspan x="10" y="4602">281.  2017-04-17 15:26:25 +0000     8091 bytes  ts/core/observable.ts</tspan>
-<tspan x="10" y="4618">282.  2017-04-17 15:26:25 +0000     2679 bytes  ts/core/observer-extras.ts</tspan>
-<tspan x="10" y="4634">283.  2017-04-17 15:26:25 +0000     2464 bytes  ts/core/observer-lite.ts</tspan>
-<tspan x="10" y="4650">284.  2017-04-17 15:26:25 +0000      280 bytes  ts/core/observer.ts</tspan>
-<tspan x="10" y="4666">285.  2017-04-17 15:26:25 +0000      310 bytes  ts/core/scheduledobserver.ts</tspan>
-<tspan x="10" y="4682">286.  2017-04-17 15:26:25 +0000      733 bytes  ts/core/subjects/anonymoussubject.ts</tspan>
-<tspan x="10" y="4698">287.  2017-04-17 15:26:25 +0000      706 bytes  ts/core/subjects/asyncsubject.ts</tspan>
-<tspan x="10" y="4714">288.  2017-04-17 15:26:25 +0000     1336 bytes  ts/core/subjects/behaviorsubject.ts</tspan>
-<tspan x="10" y="4730">289.  2017-04-17 15:26:25 +0000     1321 bytes  ts/core/subjects/replaysubject.ts</tspan>
-<tspan x="10" y="4746">290.  2017-04-17 15:26:25 +0000     1983 bytes  ts/core/subjects/subject.ts</tspan>
-<tspan x="10" y="4762">291.  2017-04-17 15:26:25 +0000      304 bytes  ts/core/testing/mockdisposable.ts</tspan>
-<tspan x="10" y="4778">292.  2017-04-17 15:26:25 +0000      554 bytes  ts/core/testing/mockobserver.ts</tspan>
-<tspan x="10" y="4794">293.  2017-04-17 15:26:25 +0000     4133 bytes  ts/core/testing/reactivetest.ts</tspan>
-<tspan x="10" y="4810">294.  2017-04-17 15:26:25 +0000     1425 bytes  ts/core/testing/recorded.ts</tspan>
-<tspan x="10" y="4826">295.  2017-04-17 15:26:25 +0000     1281 bytes  ts/core/testing/subscription.ts</tspan>
-<tspan x="10" y="4842">296.  2017-04-17 15:26:25 +0000     5314 bytes  ts/core/testing/testscheduler.ts</tspan>
-<tspan x="10" y="4858">297.  2017-04-17 15:26:25 +0000     3813 bytes  ts/es6-promise.es6.d.ts</tspan>
-<tspan x="10" y="4874">298.  2017-04-17 15:26:25 +0000     5351 bytes  ts/iterable.es6.d.ts</tspan>
-<tspan x="10" y="4890">299.  2017-04-17 15:26:25 +0000    16300 bytes  ts/rx.aggregates.d.ts</tspan>
-<tspan x="10" y="4906">300.  2017-04-17 15:26:25 +0000    17847 bytes  ts/rx.aggregates.es6.d.ts</tspan>
-<tspan x="10" y="4922">301.  2017-04-17 15:26:25 +0000   344612 bytes  ts/rx.all.d.ts</tspan>
-<tspan x="10" y="4938">302.  2017-04-17 15:26:25 +0000   345984 bytes  ts/rx.all.es6.d.ts</tspan>
-<tspan x="10" y="4954">303.  2017-04-17 15:26:25 +0000    26598 bytes  ts/rx.async.d.ts</tspan>
-<tspan x="10" y="4970">304.  2017-04-17 15:26:25 +0000    26598 bytes  ts/rx.async.es6.d.ts</tspan>
-<tspan x="10" y="4986">305.  2017-04-17 15:26:25 +0000     3472 bytes  ts/rx.backpressure.d.ts</tspan>
-<tspan x="10" y="5002">306.  2017-04-17 15:26:25 +0000     3472 bytes  ts/rx.backpressure.es6.d.ts</tspan>
-<tspan x="10" y="5018">307.  2017-04-17 15:26:25 +0000    18171 bytes  ts/rx.binding.d.ts</tspan>
-<tspan x="10" y="5034">308.  2017-04-17 15:26:25 +0000    18171 bytes  ts/rx.binding.es6.d.ts</tspan>
-<tspan x="10" y="5050">309.  2017-04-17 15:26:25 +0000    15683 bytes  ts/rx.coincidence.d.ts</tspan>
-<tspan x="10" y="5066">310.  2017-04-17 15:26:25 +0000    15683 bytes  ts/rx.coincidence.es6.d.ts</tspan>
-<tspan x="10" y="5082">311.  2017-04-17 15:26:25 +0000    17696 bytes  ts/rx.core.binding.d.ts</tspan>
-<tspan x="10" y="5098">312.  2017-04-17 15:26:25 +0000    17696 bytes  ts/rx.core.binding.es6.d.ts</tspan>
-<tspan x="10" y="5114">313.  2017-04-17 15:26:25 +0000    23978 bytes  ts/rx.core.d.ts</tspan>
-<tspan x="10" y="5130">314.  2017-04-17 15:26:25 +0000    23803 bytes  ts/rx.core.es6.d.ts</tspan>
-<tspan x="10" y="5146">315.  2017-04-17 15:26:25 +0000    12381 bytes  ts/rx.core.testing.d.ts</tspan>
-<tspan x="10" y="5162">316.  2017-04-17 15:26:25 +0000    12381 bytes  ts/rx.core.testing.es6.d.ts</tspan>
-<tspan x="10" y="5178">317.  2017-04-17 15:26:25 +0000   171143 bytes  ts/rx.d.ts</tspan>
-<tspan x="10" y="5194">318.  2017-04-17 15:26:25 +0000   170968 bytes  ts/rx.es6.d.ts</tspan>
-<tspan x="10" y="5210">319.  2017-04-17 15:26:25 +0000    35175 bytes  ts/rx.experimental.d.ts</tspan>
-<tspan x="10" y="5226">320.  2017-04-17 15:26:25 +0000    35175 bytes  ts/rx.experimental.es6.d.ts</tspan>
-<tspan x="10" y="5242">321.  2017-04-17 15:26:25 +0000     9572 bytes  ts/rx.joinpatterns.d.ts</tspan>
-<tspan x="10" y="5258">322.  2017-04-17 15:26:25 +0000     9572 bytes  ts/rx.joinpatterns.es6.d.ts</tspan>
-<tspan x="10" y="5274">323.  2017-04-17 15:26:25 +0000   214526 bytes  ts/rx.lite.d.ts</tspan>
-<tspan x="10" y="5290">324.  2017-04-17 15:26:25 +0000   214351 bytes  ts/rx.lite.es6.d.ts</tspan>
-<tspan x="10" y="5306">325.  2017-04-17 15:26:25 +0000    12179 bytes  ts/rx.lite.extras.d.ts</tspan>
-<tspan x="10" y="5322">326.  2017-04-17 15:26:25 +0000    12179 bytes  ts/rx.lite.extras.es6.d.ts</tspan>
-<tspan x="10" y="5338">327.  2017-04-17 15:26:25 +0000      824 bytes  ts/rx.sorting.d.ts</tspan>
-<tspan x="10" y="5354">328.  2017-04-17 15:26:25 +0000      824 bytes  ts/rx.sorting.es6.d.ts</tspan>
-<tspan x="10" y="5370">329.  2017-04-17 15:26:25 +0000    10267 bytes  ts/rx.testing.d.ts</tspan>
-<tspan x="10" y="5386">330.  2017-04-17 15:26:25 +0000    10267 bytes  ts/rx.testing.es6.d.ts</tspan>
-<tspan x="10" y="5402">331.  2017-04-17 15:26:25 +0000    35016 bytes  ts/rx.time.d.ts</tspan>
-<tspan x="10" y="5418">332.  2017-04-17 15:26:25 +0000    35016 bytes  ts/rx.time.es6.d.ts</tspan>
-<tspan x="10" y="5434">333.  2017-04-17 15:26:25 +0000     2723 bytes  ts/rx.virtualtime.d.ts</tspan>
-<tspan x="10" y="5450">334.  2017-04-17 15:26:25 +0000     2723 bytes  ts/rx.virtualtime.es6.d.ts</tspan>
-<tspan x="10" y="5466">335.  2017-04-17 15:26:25 +0000    10147 bytes  ts/tsconfig.json</tspan>
+<tspan x="10" y="4122">251.  2017-04-17 15:27:27 +0000     1367 bytes  ts/core/linq/observable/takelastwithtime.ts</tspan>
+<tspan x="10" y="4138">252.  2017-04-17 15:27:27 +0000      739 bytes  ts/core/linq/observable/takeuntil.ts</tspan>
+<tspan x="10" y="4154">253.  2017-04-17 15:27:27 +0000     1656 bytes  ts/core/linq/observable/takeuntilwithtime.ts</tspan>
+<tspan x="10" y="4170">254.  2017-04-17 15:27:27 +0000      796 bytes  ts/core/linq/observable/takewhile.ts</tspan>
+<tspan x="10" y="4186">255.  2017-04-17 15:27:27 +0000     1365 bytes  ts/core/linq/observable/takewithtime.ts</tspan>
+<tspan x="10" y="4202">256.  2017-04-17 15:27:27 +0000     8656 bytes  ts/core/linq/observable/tap.ts</tspan>
+<tspan x="10" y="4218">257.  2017-04-17 15:27:27 +0000      554 bytes  ts/core/linq/observable/thendo.ts</tspan>
+<tspan x="10" y="4234">258.  2017-04-17 15:27:27 +0000      903 bytes  ts/core/linq/observable/throttle.ts</tspan>
+<tspan x="10" y="4250">259.  2017-04-17 15:27:27 +0000     1588 bytes  ts/core/linq/observable/throw.ts</tspan>
+<tspan x="10" y="4266">260.  2017-04-17 15:27:27 +0000      926 bytes  ts/core/linq/observable/timeinterval.ts</tspan>
+<tspan x="10" y="4282">261.  2017-04-17 15:27:27 +0000     5786 bytes  ts/core/linq/observable/timeout.ts</tspan>
+<tspan x="10" y="4298">262.  2017-04-17 15:27:27 +0000     2104 bytes  ts/core/linq/observable/timer.ts</tspan>
+<tspan x="10" y="4314">263.  2017-04-17 15:27:27 +0000      960 bytes  ts/core/linq/observable/timestamp.ts</tspan>
+<tspan x="10" y="4330">264.  2017-04-17 15:27:27 +0000      476 bytes  ts/core/linq/observable/toarray.ts</tspan>
+<tspan x="10" y="4346">265.  2017-04-17 15:27:27 +0000     4468 bytes  ts/core/linq/observable/toasync.ts</tspan>
+<tspan x="10" y="4362">266.  2017-04-17 15:27:27 +0000     1294 bytes  ts/core/linq/observable/tomap.ts</tspan>
+<tspan x="10" y="4378">267.  2017-04-17 15:27:27 +0000     1722 bytes  ts/core/linq/observable/topromise.ts</tspan>
+<tspan x="10" y="4394">268.  2017-04-17 15:27:27 +0000      369 bytes  ts/core/linq/observable/toset.ts</tspan>
+<tspan x="10" y="4410">269.  2017-04-17 15:27:27 +0000      435 bytes  ts/core/linq/observable/transduce.ts</tspan>
+<tspan x="10" y="4426">270.  2017-04-17 15:27:27 +0000      938 bytes  ts/core/linq/observable/using.ts</tspan>
+<tspan x="10" y="4442">271.  2017-04-17 15:27:27 +0000      538 bytes  ts/core/linq/observable/when.ts</tspan>
+<tspan x="10" y="4458">272.  2017-04-17 15:27:27 +0000     1433 bytes  ts/core/linq/observable/while.ts</tspan>
+<tspan x="10" y="4474">273.  2017-04-17 15:27:27 +0000     2866 bytes  ts/core/linq/observable/window.ts</tspan>
+<tspan x="10" y="4490">274.  2017-04-17 15:27:27 +0000      879 bytes  ts/core/linq/observable/windowwithcount.ts</tspan>
+<tspan x="10" y="4506">275.  2017-04-17 15:27:27 +0000     2194 bytes  ts/core/linq/observable/windowwithtime.ts</tspan>
+<tspan x="10" y="4522">276.  2017-04-17 15:27:27 +0000     1025 bytes  ts/core/linq/observable/windowwithtimeorcount.ts</tspan>
+<tspan x="10" y="4538">277.  2017-04-17 15:27:27 +0000     6302 bytes  ts/core/linq/observable/withlatestfrom.ts</tspan>
+<tspan x="10" y="4554">278.  2017-04-17 15:27:27 +0000    15370 bytes  ts/core/linq/observable/zip.ts</tspan>
+<tspan x="10" y="4570">279.  2017-04-17 15:27:27 +0000      945 bytes  ts/core/linq/observable/zipiterable.ts</tspan>
+<tspan x="10" y="4586">280.  2017-04-17 15:27:27 +0000     3948 bytes  ts/core/notification.ts</tspan>
+<tspan x="10" y="4602">281.  2017-04-17 15:27:27 +0000     8091 bytes  ts/core/observable.ts</tspan>
+<tspan x="10" y="4618">282.  2017-04-17 15:27:27 +0000     2679 bytes  ts/core/observer-extras.ts</tspan>
+<tspan x="10" y="4634">283.  2017-04-17 15:27:27 +0000     2464 bytes  ts/core/observer-lite.ts</tspan>
+<tspan x="10" y="4650">284.  2017-04-17 15:27:27 +0000      280 bytes  ts/core/observer.ts</tspan>
+<tspan x="10" y="4666">285.  2017-04-17 15:27:27 +0000      310 bytes  ts/core/scheduledobserver.ts</tspan>
+<tspan x="10" y="4682">286.  2017-04-17 15:27:27 +0000      733 bytes  ts/core/subjects/anonymoussubject.ts</tspan>
+<tspan x="10" y="4698">287.  2017-04-17 15:27:27 +0000      706 bytes  ts/core/subjects/asyncsubject.ts</tspan>
+<tspan x="10" y="4714">288.  2017-04-17 15:27:27 +0000     1336 bytes  ts/core/subjects/behaviorsubject.ts</tspan>
+<tspan x="10" y="4730">289.  2017-04-17 15:27:27 +0000     1321 bytes  ts/core/subjects/replaysubject.ts</tspan>
+<tspan x="10" y="4746">290.  2017-04-17 15:27:27 +0000     1983 bytes  ts/core/subjects/subject.ts</tspan>
+<tspan x="10" y="4762">291.  2017-04-17 15:27:27 +0000      304 bytes  ts/core/testing/mockdisposable.ts</tspan>
+<tspan x="10" y="4778">292.  2017-04-17 15:27:27 +0000      554 bytes  ts/core/testing/mockobserver.ts</tspan>
+<tspan x="10" y="4794">293.  2017-04-17 15:27:27 +0000     4133 bytes  ts/core/testing/reactivetest.ts</tspan>
+<tspan x="10" y="4810">294.  2017-04-17 15:27:27 +0000     1425 bytes  ts/core/testing/recorded.ts</tspan>
+<tspan x="10" y="4826">295.  2017-04-17 15:27:27 +0000     1281 bytes  ts/core/testing/subscription.ts</tspan>
+<tspan x="10" y="4842">296.  2017-04-17 15:27:27 +0000     5314 bytes  ts/core/testing/testscheduler.ts</tspan>
+<tspan x="10" y="4858">297.  2017-04-17 15:27:27 +0000     3813 bytes  ts/es6-promise.es6.d.ts</tspan>
+<tspan x="10" y="4874">298.  2017-04-17 15:27:27 +0000     5351 bytes  ts/iterable.es6.d.ts</tspan>
+<tspan x="10" y="4890">299.  2017-04-17 15:27:27 +0000    16300 bytes  ts/rx.aggregates.d.ts</tspan>
+<tspan x="10" y="4906">300.  2017-04-17 15:27:27 +0000    17847 bytes  ts/rx.aggregates.es6.d.ts</tspan>
+<tspan x="10" y="4922">301.  2017-04-17 15:27:27 +0000   344612 bytes  ts/rx.all.d.ts</tspan>
+<tspan x="10" y="4938">302.  2017-04-17 15:27:27 +0000   345984 bytes  ts/rx.all.es6.d.ts</tspan>
+<tspan x="10" y="4954">303.  2017-04-17 15:27:27 +0000    26598 bytes  ts/rx.async.d.ts</tspan>
+<tspan x="10" y="4970">304.  2017-04-17 15:27:27 +0000    26598 bytes  ts/rx.async.es6.d.ts</tspan>
+<tspan x="10" y="4986">305.  2017-04-17 15:27:27 +0000     3472 bytes  ts/rx.backpressure.d.ts</tspan>
+<tspan x="10" y="5002">306.  2017-04-17 15:27:27 +0000     3472 bytes  ts/rx.backpressure.es6.d.ts</tspan>
+<tspan x="10" y="5018">307.  2017-04-17 15:27:27 +0000    18171 bytes  ts/rx.binding.d.ts</tspan>
+<tspan x="10" y="5034">308.  2017-04-17 15:27:27 +0000    18171 bytes  ts/rx.binding.es6.d.ts</tspan>
+<tspan x="10" y="5050">309.  2017-04-17 15:27:27 +0000    15683 bytes  ts/rx.coincidence.d.ts</tspan>
+<tspan x="10" y="5066">310.  2017-04-17 15:27:27 +0000    15683 bytes  ts/rx.coincidence.es6.d.ts</tspan>
+<tspan x="10" y="5082">311.  2017-04-17 15:27:27 +0000    17696 bytes  ts/rx.core.binding.d.ts</tspan>
+<tspan x="10" y="5098">312.  2017-04-17 15:27:27 +0000    17696 bytes  ts/rx.core.binding.es6.d.ts</tspan>
+<tspan x="10" y="5114">313.  2017-04-17 15:27:27 +0000    23978 bytes  ts/rx.core.d.ts</tspan>
+<tspan x="10" y="5130">314.  2017-04-17 15:27:27 +0000    23803 bytes  ts/rx.core.es6.d.ts</tspan>
+<tspan x="10" y="5146">315.  2017-04-17 15:27:27 +0000    12381 bytes  ts/rx.core.testing.d.ts</tspan>
+<tspan x="10" y="5162">316.  2017-04-17 15:27:27 +0000    12381 bytes  ts/rx.core.testing.es6.d.ts</tspan>
+<tspan x="10" y="5178">317.  2017-04-17 15:27:27 +0000   171143 bytes  ts/rx.d.ts</tspan>
+<tspan x="10" y="5194">318.  2017-04-17 15:27:27 +0000   170968 bytes  ts/rx.es6.d.ts</tspan>
+<tspan x="10" y="5210">319.  2017-04-17 15:27:27 +0000    35175 bytes  ts/rx.experimental.d.ts</tspan>
+<tspan x="10" y="5226">320.  2017-04-17 15:27:27 +0000    35175 bytes  ts/rx.experimental.es6.d.ts</tspan>
+<tspan x="10" y="5242">321.  2017-04-17 15:27:27 +0000     9572 bytes  ts/rx.joinpatterns.d.ts</tspan>
+<tspan x="10" y="5258">322.  2017-04-17 15:27:27 +0000     9572 bytes  ts/rx.joinpatterns.es6.d.ts</tspan>
+<tspan x="10" y="5274">323.  2017-04-17 15:27:27 +0000   214526 bytes  ts/rx.lite.d.ts</tspan>
+<tspan x="10" y="5290">324.  2017-04-17 15:27:27 +0000   214351 bytes  ts/rx.lite.es6.d.ts</tspan>
+<tspan x="10" y="5306">325.  2017-04-17 15:27:27 +0000    12179 bytes  ts/rx.lite.extras.d.ts</tspan>
+<tspan x="10" y="5322">326.  2017-04-17 15:27:27 +0000    12179 bytes  ts/rx.lite.extras.es6.d.ts</tspan>
+<tspan x="10" y="5338">327.  2017-04-17 15:27:27 +0000      824 bytes  ts/rx.sorting.d.ts</tspan>
+<tspan x="10" y="5354">328.  2017-04-17 15:27:27 +0000      824 bytes  ts/rx.sorting.es6.d.ts</tspan>
+<tspan x="10" y="5370">329.  2017-04-17 15:27:27 +0000    10267 bytes  ts/rx.testing.d.ts</tspan>
+<tspan x="10" y="5386">330.  2017-04-17 15:27:27 +0000    10267 bytes  ts/rx.testing.es6.d.ts</tspan>
+<tspan x="10" y="5402">331.  2017-04-17 15:27:27 +0000    35016 bytes  ts/rx.time.d.ts</tspan>
+<tspan x="10" y="5418">332.  2017-04-17 15:27:27 +0000    35016 bytes  ts/rx.time.es6.d.ts</tspan>
+<tspan x="10" y="5434">333.  2017-04-17 15:27:27 +0000     2723 bytes  ts/rx.virtualtime.d.ts</tspan>
+<tspan x="10" y="5450">334.  2017-04-17 15:27:27 +0000     2723 bytes  ts/rx.virtualtime.es6.d.ts</tspan>
+<tspan x="10" y="5466">335.  2017-04-17 15:27:27 +0000    10147 bytes  ts/tsconfig.json</tspan>
 </text>
 </svg>
