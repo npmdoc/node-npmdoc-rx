@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "rx",
-    "description": "api documentation for [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS) [![npm package](https://img.shields.io/npm/v/npmdoc-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rx)",
+    "description": "#### basic api documentation for  [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS)  [![npm package](https://img.shields.io/npm/v/npmdoc-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rx)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "rx": "*",

@@ -1,4 +1,7 @@
-# api documentation for  [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS)  [![npm package](https://img.shields.io/npm/v/npmdoc-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rx)
+# npmdoc-rx
+
+#### basic api documentation for  [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS)  [![npm package](https://img.shields.io/npm/v/npmdoc-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rx)
+
 #### Library for composing asynchronous and event-based operations in JavaScript
 
 [![NPM](https://nodei.co/npm/rx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rx)
@@ -83,7 +86,8 @@
         "test": "grunt"
     },
     "title": "Reactive Extensions for JavaScript (RxJS)",
-    "version": "4.1.0"
+    "version": "4.1.0",
+    "bin": {}
 }
 ```
 
